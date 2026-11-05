@@ -9,6 +9,8 @@ ROOT = Path("outputs/capability_profiles/major_revision")
 REQUIRED = [
     "major_revision_results.json",
     "major_revision_report.md",
+    "task_variable_to_component_mapping.csv",
+    "task_variable_definitions.csv",
     "task1_excluded_countries.csv",
     "task1_variable_dictionary_76.csv",
     "task2_eta_squared_reconstruction.csv",

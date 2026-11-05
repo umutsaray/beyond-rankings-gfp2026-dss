@@ -1,0 +1,77 @@
+original_variable,domain,correlation_group_id,group_members,represented_by_PC1,pc1_orientation_rule
+purchasing_power,financial,financial_RG1,,False,Not applicable: singleton standardized feature retained directly.
+foreign_reserves,financial,financial_RG2,,False,Not applicable: singleton standardized feature retained directly.
+defense_budget,financial,financial_RG3,,False,Not applicable: singleton standardized feature retained directly.
+external_debt,financial,financial_RG4,,False,Not applicable: singleton standardized feature retained directly.
+square_land_area,geography,geography_RG1,,False,Not applicable: singleton standardized feature retained directly.
+coastline,geography,geography_RG2,,False,Not applicable: singleton standardized feature retained directly.
+shared_borders,geography,geography_RG3,,False,Not applicable: singleton standardized feature retained directly.
+waterways,geography,geography_RG4,,False,Not applicable: singleton standardized feature retained directly.
+available_manpower,manpower,manpower_RG1,fit_for_service; reaching_military_age_annually; total_population; yearly_mobilization_potential,True,"Within each multi-variable connected component, fit PCA to StandardScaler-transformed features; multiply PC1 by -1 only when the un-oriented PC1 loading sum is negative, so the reported PC1 has sum(loadings) >= 0."
+fit_for_service,manpower,manpower_RG1,available_manpower; reaching_military_age_annually; total_population; yearly_mobilization_potential,True,"Within each multi-variable connected component, fit PCA to StandardScaler-transformed features; multiply PC1 by -1 only when the un-oriented PC1 loading sum is negative, so the reported PC1 has sum(loadings) >= 0."
+reaching_military_age_annually,manpower,manpower_RG1,available_manpower; fit_for_service; total_population; yearly_mobilization_potential,True,"Within each multi-variable connected component, fit PCA to StandardScaler-transformed features; multiply PC1 by -1 only when the un-oriented PC1 loading sum is negative, so the reported PC1 has sum(loadings) >= 0."
+total_population,manpower,manpower_RG1,available_manpower; fit_for_service; reaching_military_age_annually; yearly_mobilization_potential,True,"Within each multi-variable connected component, fit PCA to StandardScaler-transformed features; multiply PC1 by -1 only when the un-oriented PC1 loading sum is negative, so the reported PC1 has sum(loadings) >= 0."
+yearly_mobilization_potential,manpower,manpower_RG1,available_manpower; fit_for_service; reaching_military_age_annually; total_population,True,"Within each multi-variable connected component, fit PCA to StandardScaler-transformed features; multiply PC1 by -1 only when the un-oriented PC1 loading sum is negative, so the reported PC1 has sum(loadings) >= 0."
+total_military_personnel,manpower,manpower_RG2,,False,Not applicable: singleton standardized feature retained directly.
+active_personnel,manpower,manpower_RG3,,False,Not applicable: singleton standardized feature retained directly.
+reserve_personnel,manpower,manpower_RG4,,False,Not applicable: singleton standardized feature retained directly.
+paramilitary_personnel,manpower,manpower_RG5,,False,Not applicable: singleton standardized feature retained directly.
+air_force_personnel,manpower,manpower_RG6,,False,Not applicable: singleton standardized feature retained directly.
+army_personnel,manpower,manpower_RG7,,False,Not applicable: singleton standardized feature retained directly.
+navy_personnel,manpower,manpower_RG8,,False,Not applicable: singleton standardized feature retained directly.
+aircraft_readiness,airpower,airpower_RG1,aircraft_total; helicopters; helicopters_readiness; trainers; trainers_readiness,True,"Within each multi-variable connected component, fit PCA to StandardScaler-transformed features; multiply PC1 by -1 only when the un-oriented PC1 loading sum is negative, so the reported PC1 has sum(loadings) >= 0."
+aircraft_total,airpower,airpower_RG1,aircraft_readiness; helicopters; helicopters_readiness; trainers; trainers_readiness,True,"Within each multi-variable connected component, fit PCA to StandardScaler-transformed features; multiply PC1 by -1 only when the un-oriented PC1 loading sum is negative, so the reported PC1 has sum(loadings) >= 0."
+helicopters,airpower,airpower_RG1,aircraft_readiness; aircraft_total; helicopters_readiness; trainers; trainers_readiness,True,"Within each multi-variable connected component, fit PCA to StandardScaler-transformed features; multiply PC1 by -1 only when the un-oriented PC1 loading sum is negative, so the reported PC1 has sum(loadings) >= 0."
+helicopters_readiness,airpower,airpower_RG1,aircraft_readiness; aircraft_total; helicopters; trainers; trainers_readiness,True,"Within each multi-variable connected component, fit PCA to StandardScaler-transformed features; multiply PC1 by -1 only when the un-oriented PC1 loading sum is negative, so the reported PC1 has sum(loadings) >= 0."
+trainers,airpower,airpower_RG1,aircraft_readiness; aircraft_total; helicopters; helicopters_readiness; trainers_readiness,True,"Within each multi-variable connected component, fit PCA to StandardScaler-transformed features; multiply PC1 by -1 only when the un-oriented PC1 loading sum is negative, so the reported PC1 has sum(loadings) >= 0."
+trainers_readiness,airpower,airpower_RG1,aircraft_readiness; aircraft_total; helicopters; helicopters_readiness; trainers,True,"Within each multi-variable connected component, fit PCA to StandardScaler-transformed features; multiply PC1 by -1 only when the un-oriented PC1 loading sum is negative, so the reported PC1 has sum(loadings) >= 0."
+fighters,airpower,airpower_RG2,fighters_readiness,True,"Within each multi-variable connected component, fit PCA to StandardScaler-transformed features; multiply PC1 by -1 only when the un-oriented PC1 loading sum is negative, so the reported PC1 has sum(loadings) >= 0."
+fighters_readiness,airpower,airpower_RG2,fighters,True,"Within each multi-variable connected component, fit PCA to StandardScaler-transformed features; multiply PC1 by -1 only when the un-oriented PC1 loading sum is negative, so the reported PC1 has sum(loadings) >= 0."
+attack_aircraft,airpower,airpower_RG3,attack_aircraft_readiness,True,"Within each multi-variable connected component, fit PCA to StandardScaler-transformed features; multiply PC1 by -1 only when the un-oriented PC1 loading sum is negative, so the reported PC1 has sum(loadings) >= 0."
+attack_aircraft_readiness,airpower,airpower_RG3,attack_aircraft,True,"Within each multi-variable connected component, fit PCA to StandardScaler-transformed features; multiply PC1 by -1 only when the un-oriented PC1 loading sum is negative, so the reported PC1 has sum(loadings) >= 0."
+transports,airpower,airpower_RG4,transports_readiness,True,"Within each multi-variable connected component, fit PCA to StandardScaler-transformed features; multiply PC1 by -1 only when the un-oriented PC1 loading sum is negative, so the reported PC1 has sum(loadings) >= 0."
+transports_readiness,airpower,airpower_RG4,transports,True,"Within each multi-variable connected component, fit PCA to StandardScaler-transformed features; multiply PC1 by -1 only when the un-oriented PC1 loading sum is negative, so the reported PC1 has sum(loadings) >= 0."
+special_mission,airpower,airpower_RG5,special_mission_readiness,True,"Within each multi-variable connected component, fit PCA to StandardScaler-transformed features; multiply PC1 by -1 only when the un-oriented PC1 loading sum is negative, so the reported PC1 has sum(loadings) >= 0."
+special_mission_readiness,airpower,airpower_RG5,special_mission,True,"Within each multi-variable connected component, fit PCA to StandardScaler-transformed features; multiply PC1 by -1 only when the un-oriented PC1 loading sum is negative, so the reported PC1 has sum(loadings) >= 0."
+tanker_fleet,airpower,airpower_RG6,tanker_fleet_readiness,True,"Within each multi-variable connected component, fit PCA to StandardScaler-transformed features; multiply PC1 by -1 only when the un-oriented PC1 loading sum is negative, so the reported PC1 has sum(loadings) >= 0."
+tanker_fleet_readiness,airpower,airpower_RG6,tanker_fleet,True,"Within each multi-variable connected component, fit PCA to StandardScaler-transformed features; multiply PC1 by -1 only when the un-oriented PC1 loading sum is negative, so the reported PC1 has sum(loadings) >= 0."
+attack_helicopters,airpower,airpower_RG7,attack_helicopters_readiness,True,"Within each multi-variable connected component, fit PCA to StandardScaler-transformed features; multiply PC1 by -1 only when the un-oriented PC1 loading sum is negative, so the reported PC1 has sum(loadings) >= 0."
+attack_helicopters_readiness,airpower,airpower_RG7,attack_helicopters,True,"Within each multi-variable connected component, fit PCA to StandardScaler-transformed features; multiply PC1 by -1 only when the un-oriented PC1 loading sum is negative, so the reported PC1 has sum(loadings) >= 0."
+tanks,land,land_RG1,tanks_readiness,True,"Within each multi-variable connected component, fit PCA to StandardScaler-transformed features; multiply PC1 by -1 only when the un-oriented PC1 loading sum is negative, so the reported PC1 has sum(loadings) >= 0."
+tanks_readiness,land,land_RG1,tanks,True,"Within each multi-variable connected component, fit PCA to StandardScaler-transformed features; multiply PC1 by -1 only when the un-oriented PC1 loading sum is negative, so the reported PC1 has sum(loadings) >= 0."
+vehicles,land,land_RG2,vehicles_readiness,True,"Within each multi-variable connected component, fit PCA to StandardScaler-transformed features; multiply PC1 by -1 only when the un-oriented PC1 loading sum is negative, so the reported PC1 has sum(loadings) >= 0."
+vehicles_readiness,land,land_RG2,vehicles,True,"Within each multi-variable connected component, fit PCA to StandardScaler-transformed features; multiply PC1 by -1 only when the un-oriented PC1 loading sum is negative, so the reported PC1 has sum(loadings) >= 0."
+self_propelled_artillery,land,land_RG3,self_propelled_artillery_readiness,True,"Within each multi-variable connected component, fit PCA to StandardScaler-transformed features; multiply PC1 by -1 only when the un-oriented PC1 loading sum is negative, so the reported PC1 has sum(loadings) >= 0."
+self_propelled_artillery_readiness,land,land_RG3,self_propelled_artillery,True,"Within each multi-variable connected component, fit PCA to StandardScaler-transformed features; multiply PC1 by -1 only when the un-oriented PC1 loading sum is negative, so the reported PC1 has sum(loadings) >= 0."
+towed_artillery,land,land_RG4,towed_artillery_readiness,True,"Within each multi-variable connected component, fit PCA to StandardScaler-transformed features; multiply PC1 by -1 only when the un-oriented PC1 loading sum is negative, so the reported PC1 has sum(loadings) >= 0."
+towed_artillery_readiness,land,land_RG4,towed_artillery,True,"Within each multi-variable connected component, fit PCA to StandardScaler-transformed features; multiply PC1 by -1 only when the un-oriented PC1 loading sum is negative, so the reported PC1 has sum(loadings) >= 0."
+mlrs,land,land_RG5,mlrs_readiness,True,"Within each multi-variable connected component, fit PCA to StandardScaler-transformed features; multiply PC1 by -1 only when the un-oriented PC1 loading sum is negative, so the reported PC1 has sum(loadings) >= 0."
+mlrs_readiness,land,land_RG5,mlrs,True,"Within each multi-variable connected component, fit PCA to StandardScaler-transformed features; multiply PC1 by -1 only when the un-oriented PC1 loading sum is negative, so the reported PC1 has sum(loadings) >= 0."
+naval_total_assets,naval,naval_RG1,,False,Not applicable: singleton standardized feature retained directly.
+aircraft_carriers,naval,naval_RG2,,False,Not applicable: singleton standardized feature retained directly.
+helicopter_carriers,naval,naval_RG3,,False,Not applicable: singleton standardized feature retained directly.
+destroyers,naval,naval_RG4,,False,Not applicable: singleton standardized feature retained directly.
+frigates,naval,naval_RG5,,False,Not applicable: singleton standardized feature retained directly.
+corvettes,naval,naval_RG6,,False,Not applicable: singleton standardized feature retained directly.
+submarines,naval,naval_RG7,,False,Not applicable: singleton standardized feature retained directly.
+patrol_vessels,naval,naval_RG8,,False,Not applicable: singleton standardized feature retained directly.
+mine_warfare,naval,naval_RG9,,False,Not applicable: singleton standardized feature retained directly.
+oil_production,natural_resources,natural_resources_RG1,,False,Not applicable: singleton standardized feature retained directly.
+oil_consumption,natural_resources,natural_resources_RG2,,False,Not applicable: singleton standardized feature retained directly.
+oil_deficit,natural_resources,natural_resources_RG3,,False,Not applicable: singleton standardized feature retained directly.
+oil_proven_reserves,natural_resources,natural_resources_RG4,,False,Not applicable: singleton standardized feature retained directly.
+natural_gas_production,natural_resources,natural_resources_RG5,,False,Not applicable: singleton standardized feature retained directly.
+natural_gas_consumption,natural_resources,natural_resources_RG6,,False,Not applicable: singleton standardized feature retained directly.
+natural_gas_deficit,natural_resources,natural_resources_RG7,,False,Not applicable: singleton standardized feature retained directly.
+natural_gas_proven_reserves,natural_resources,natural_resources_RG8,,False,Not applicable: singleton standardized feature retained directly.
+coal_production,natural_resources,natural_resources_RG9,,False,Not applicable: singleton standardized feature retained directly.
+coal_consumption,natural_resources,natural_resources_RG10,,False,Not applicable: singleton standardized feature retained directly.
+coal_deficit,natural_resources,natural_resources_RG11,,False,Not applicable: singleton standardized feature retained directly.
+coal_proven_reserves,natural_resources,natural_resources_RG12,,False,Not applicable: singleton standardized feature retained directly.
+internet_coverage,logistics,logistics_RG1,,False,Not applicable: singleton standardized feature retained directly.
+labor_force,logistics,logistics_RG2,,False,Not applicable: singleton standardized feature retained directly.
+merchant_marine_fleet,logistics,logistics_RG3,,False,Not applicable: singleton standardized feature retained directly.
+ports_trade_terminals,logistics,logistics_RG4,,False,Not applicable: singleton standardized feature retained directly.
+airports,logistics,logistics_RG5,,False,Not applicable: singleton standardized feature retained directly.
+roadway_coverage,logistics,logistics_RG6,,False,Not applicable: singleton standardized feature retained directly.
+railway_coverage,logistics,logistics_RG7,,False,Not applicable: singleton standardized feature retained directly.

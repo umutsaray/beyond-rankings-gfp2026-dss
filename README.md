@@ -22,6 +22,7 @@ Key entry points:
 - `src/correct_capability_profile_analysis.py`: post-audit corrected eight-domain analysis.
 - `src/run_major_revision_analyses.py`: reviewer-requested naval deletion, unit-variance, outlier, ranking-baseline, bootstrap, peer-sensitivity, and reproducibility analyses.
 - `src/validate_major_revision_outputs.py`: structural and numerical validation of the committed Major Revision results.
+- `src/create_table_s0_extensions.py`: produces the reviewer-requested 76-to-56 component map and source-field definition supplement.
 - `outputs/capability_profiles/major_revision/task1_variable_dictionary_76.csv`: the 76-variable data dictionary referenced as Table S0.
 
 ## Environment
@@ -131,6 +132,7 @@ The committed results include:
 
 - 145-versus-143 country reconciliation and extraction-stage exclusions.
 - Table S0, the 76-variable data dictionary.
+- The complete 76-to-56 within-domain correlation-group/component map and energy/readiness source-field definitions extending Table S0.
 - Exact reconstruction of the general-scale eta-squared statistic.
 - Seven-domain naval-deletion and eight-domain unit-variance alternatives for `k=2–6`.
 - Exact naval share of PCA-input variance and PC1 loading comparisons.

@@ -1,0 +1,3 @@
+﻿stage,flagged_countries,max_mahalanobis_d2,mean_mahalanobis_d2
+after_RobustScaler,3,43.86914886043576,8.000000000000002
+before_RobustScaler,3,43.86914886043572,8.0

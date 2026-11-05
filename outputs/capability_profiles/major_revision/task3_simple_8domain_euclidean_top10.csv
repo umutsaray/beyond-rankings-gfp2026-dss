@@ -1,0 +1,11 @@
+﻿neighbor_type,country,distance,rank
+raw_8_domain_euclidean_no_PCA,Egypt,0.663257008690327,1
+raw_8_domain_euclidean_no_PCA,Pakistan,1.0887505805059732,2
+raw_8_domain_euclidean_no_PCA,Iran,1.1259828248028303,3
+raw_8_domain_euclidean_no_PCA,Ukraine,1.177653198798963,4
+raw_8_domain_euclidean_no_PCA,Saudi Arabia,1.2296154161098356,5
+raw_8_domain_euclidean_no_PCA,Algeria,1.2311703029279675,6
+raw_8_domain_euclidean_no_PCA,South Korea,1.2721016349260923,7
+raw_8_domain_euclidean_no_PCA,Thailand,1.3454914168336687,8
+raw_8_domain_euclidean_no_PCA,Italy,1.3683712811415678,9
+raw_8_domain_euclidean_no_PCA,Japan,1.478058771176442,10

@@ -1,0 +1,1279 @@
+﻿top_n,scenario_family,country,configurations_total,configurations_present,presence_frequency,mean_rank_conditional_on_presence,median_rank_conditional_on_presence
+5,S8_corrected_only,Egypt,6,6,1.0,1.3333333333333333,1.0
+5,S8_corrected_only,Ukraine,6,6,1.0,2.6666666666666665,3.0
+5,S8_corrected_only,Thailand,6,5,0.8333333333333334,3.4,3.0
+5,S8_corrected_only,Iraq,6,3,0.5,3.0,4.0
+5,S8_corrected_only,India,6,2,0.3333333333333333,2.5,2.5
+5,S8_corrected_only,Italy,6,2,0.3333333333333333,4.0,4.0
+5,S8_corrected_only,Japan,6,2,0.3333333333333333,5.0,5.0
+5,S8_corrected_only,Algeria,6,1,0.16666666666666666,2.0,2.0
+5,S8_corrected_only,Morocco,6,1,0.16666666666666666,5.0,5.0
+5,S8_corrected_only,Spain,6,1,0.16666666666666666,5.0,5.0
+5,S8_corrected_only,United States,6,1,0.16666666666666666,5.0,5.0
+5,S8_corrected_only,Afghanistan,6,0,0.0,,
+5,S8_corrected_only,Albania,6,0,0.0,,
+5,S8_corrected_only,Angola,6,0,0.0,,
+5,S8_corrected_only,Argentina,6,0,0.0,,
+5,S8_corrected_only,Armenia,6,0,0.0,,
+5,S8_corrected_only,Australia,6,0,0.0,,
+5,S8_corrected_only,Austria,6,0,0.0,,
+5,S8_corrected_only,Azerbaijan,6,0,0.0,,
+5,S8_corrected_only,Bahrain,6,0,0.0,,
+5,S8_corrected_only,Bangladesh,6,0,0.0,,
+5,S8_corrected_only,Belarus,6,0,0.0,,
+5,S8_corrected_only,Belgium,6,0,0.0,,
+5,S8_corrected_only,Beliz,6,0,0.0,,
+5,S8_corrected_only,Benin,6,0,0.0,,
+5,S8_corrected_only,Bhutan,6,0,0.0,,
+5,S8_corrected_only,Bolivia,6,0,0.0,,
+5,S8_corrected_only,Bosnia and Herzegovina,6,0,0.0,,
+5,S8_corrected_only,Botswana,6,0,0.0,,
+5,S8_corrected_only,Brazil,6,0,0.0,,
+5,S8_corrected_only,Bulgaria,6,0,0.0,,
+5,S8_corrected_only,Burkina Faso,6,0,0.0,,
+5,S8_corrected_only,Cambodia,6,0,0.0,,
+5,S8_corrected_only,Cameroon,6,0,0.0,,
+5,S8_corrected_only,Canada,6,0,0.0,,
+5,S8_corrected_only,Central African Republic,6,0,0.0,,
+5,S8_corrected_only,Chad,6,0,0.0,,
+5,S8_corrected_only,Chile,6,0,0.0,,
+5,S8_corrected_only,China,6,0,0.0,,
+5,S8_corrected_only,Colombia,6,0,0.0,,
+5,S8_corrected_only,Croatia,6,0,0.0,,
+5,S8_corrected_only,Cuba,6,0,0.0,,
+5,S8_corrected_only,Czechia,6,0,0.0,,
+5,S8_corrected_only,Democratic Republic of the Congo,6,0,0.0,,
+5,S8_corrected_only,Denmark,6,0,0.0,,
+5,S8_corrected_only,Dominican Republic,6,0,0.0,,
+5,S8_corrected_only,Ecuador,6,0,0.0,,
+5,S8_corrected_only,El Salvador,6,0,0.0,,
+5,S8_corrected_only,Eritrea,6,0,0.0,,
+5,S8_corrected_only,Estonia,6,0,0.0,,
+5,S8_corrected_only,Ethiopia,6,0,0.0,,
+5,S8_corrected_only,Finland,6,0,0.0,,
+5,S8_corrected_only,France,6,0,0.0,,
+5,S8_corrected_only,Gabon,6,0,0.0,,
+5,S8_corrected_only,Georgia,6,0,0.0,,
+5,S8_corrected_only,Germany,6,0,0.0,,
+5,S8_corrected_only,Ghana,6,0,0.0,,
+5,S8_corrected_only,Greece,6,0,0.0,,
+5,S8_corrected_only,Guatemala,6,0,0.0,,
+5,S8_corrected_only,Honduras,6,0,0.0,,
+5,S8_corrected_only,Hungary,6,0,0.0,,
+5,S8_corrected_only,Iceland,6,0,0.0,,
+5,S8_corrected_only,Indonesia,6,0,0.0,,
+5,S8_corrected_only,Iran,6,0,0.0,,
+5,S8_corrected_only,Ireland,6,0,0.0,,
+5,S8_corrected_only,Israel,6,0,0.0,,
+5,S8_corrected_only,Ivory Coast,6,0,0.0,,
+5,S8_corrected_only,Jordan,6,0,0.0,,
+5,S8_corrected_only,Kazakhstan,6,0,0.0,,
+5,S8_corrected_only,Kenya,6,0,0.0,,
+5,S8_corrected_only,Kosovo,6,0,0.0,,
+5,S8_corrected_only,Kuwait,6,0,0.0,,
+5,S8_corrected_only,Kyrgyzstan,6,0,0.0,,
+5,S8_corrected_only,Laos,6,0,0.0,,
+5,S8_corrected_only,Latvia,6,0,0.0,,
+5,S8_corrected_only,Lebanon,6,0,0.0,,
+5,S8_corrected_only,Liberia,6,0,0.0,,
+5,S8_corrected_only,Libya,6,0,0.0,,
+5,S8_corrected_only,Luxembourg,6,0,0.0,,
+5,S8_corrected_only,Madagascar,6,0,0.0,,
+5,S8_corrected_only,Malaysia,6,0,0.0,,
+5,S8_corrected_only,Mali,6,0,0.0,,
+5,S8_corrected_only,Mauritania,6,0,0.0,,
+5,S8_corrected_only,Mexico,6,0,0.0,,
+5,S8_corrected_only,Moldova,6,0,0.0,,
+5,S8_corrected_only,Mongolia,6,0,0.0,,
+5,S8_corrected_only,Montenegro,6,0,0.0,,
+5,S8_corrected_only,Mozambique,6,0,0.0,,
+5,S8_corrected_only,Myanmar,6,0,0.0,,
+5,S8_corrected_only,Namibia,6,0,0.0,,
+5,S8_corrected_only,Nepal,6,0,0.0,,
+5,S8_corrected_only,Netherlands,6,0,0.0,,
+5,S8_corrected_only,New Zealand,6,0,0.0,,
+5,S8_corrected_only,Nicaragua,6,0,0.0,,
+5,S8_corrected_only,Niger,6,0,0.0,,
+5,S8_corrected_only,Nigeria,6,0,0.0,,
+5,S8_corrected_only,North Korea,6,0,0.0,,
+5,S8_corrected_only,Norway,6,0,0.0,,
+5,S8_corrected_only,Oman,6,0,0.0,,
+5,S8_corrected_only,Pakistan,6,0,0.0,,
+5,S8_corrected_only,Panama,6,0,0.0,,
+5,S8_corrected_only,Paraguay,6,0,0.0,,
+5,S8_corrected_only,Peru,6,0,0.0,,
+5,S8_corrected_only,Philippines,6,0,0.0,,
+5,S8_corrected_only,Poland,6,0,0.0,,
+5,S8_corrected_only,Portugal,6,0,0.0,,
+5,S8_corrected_only,Qatar,6,0,0.0,,
+5,S8_corrected_only,Republic of the Congo,6,0,0.0,,
+5,S8_corrected_only,Romania,6,0,0.0,,
+5,S8_corrected_only,Russia,6,0,0.0,,
+5,S8_corrected_only,Saudi Arabia,6,0,0.0,,
+5,S8_corrected_only,Senegal,6,0,0.0,,
+5,S8_corrected_only,Serbia,6,0,0.0,,
+5,S8_corrected_only,Sierra Leone,6,0,0.0,,
+5,S8_corrected_only,Singapore,6,0,0.0,,
+5,S8_corrected_only,Slovakia,6,0,0.0,,
+5,S8_corrected_only,Slovenia,6,0,0.0,,
+5,S8_corrected_only,Somalia,6,0,0.0,,
+5,S8_corrected_only,South Africa,6,0,0.0,,
+5,S8_corrected_only,South Korea,6,0,0.0,,
+5,S8_corrected_only,South Sudan,6,0,0.0,,
+5,S8_corrected_only,Sri Lanka,6,0,0.0,,
+5,S8_corrected_only,Sudan,6,0,0.0,,
+5,S8_corrected_only,Suriname,6,0,0.0,,
+5,S8_corrected_only,Sweden,6,0,0.0,,
+5,S8_corrected_only,Switzerland,6,0,0.0,,
+5,S8_corrected_only,Syria,6,0,0.0,,
+5,S8_corrected_only,Taiwan,6,0,0.0,,
+5,S8_corrected_only,Tajikistan,6,0,0.0,,
+5,S8_corrected_only,Tanzania,6,0,0.0,,
+5,S8_corrected_only,Tunisia,6,0,0.0,,
+5,S8_corrected_only,Turkmenistan,6,0,0.0,,
+5,S8_corrected_only,Uganda,6,0,0.0,,
+5,S8_corrected_only,United Arab Emirates,6,0,0.0,,
+5,S8_corrected_only,United Kingdom,6,0,0.0,,
+5,S8_corrected_only,Uruguay,6,0,0.0,,
+5,S8_corrected_only,Uzbekistan,6,0,0.0,,
+5,S8_corrected_only,Venezuela,6,0,0.0,,
+5,S8_corrected_only,Vietnam,6,0,0.0,,
+5,S8_corrected_only,Yemen,6,0,0.0,,
+5,S8_corrected_only,Zambia,6,0,0.0,,
+5,S8_corrected_only,Zimbabwe,6,0,0.0,,
+5,all_42,Thailand,42,27,0.6428571428571429,2.2962962962962963,2.0
+5,all_42,Taiwan,42,23,0.5476190476190477,3.3043478260869565,3.0
+5,all_42,Egypt,42,17,0.40476190476190477,2.1176470588235294,2.0
+5,all_42,Germany,42,15,0.35714285714285715,1.8666666666666667,1.0
+5,all_42,South Korea,42,14,0.3333333333333333,2.9285714285714284,3.0
+5,all_42,Japan,42,13,0.30952380952380953,2.6923076923076925,3.0
+5,all_42,France,42,12,0.2857142857142857,3.3333333333333335,3.5
+5,all_42,Greece,42,10,0.23809523809523808,3.5,3.5
+5,all_42,Ukraine,42,9,0.21428571428571427,2.6666666666666665,3.0
+5,all_42,Italy,42,9,0.21428571428571427,3.6666666666666665,4.0
+5,all_42,Poland,42,8,0.19047619047619047,3.75,3.0
+5,all_42,Chile,42,6,0.14285714285714285,3.1666666666666665,3.5
+5,all_42,Pakistan,42,6,0.14285714285714285,4.666666666666667,5.0
+5,all_42,Israel,42,4,0.09523809523809523,3.5,3.5
+5,all_42,Morocco,42,4,0.09523809523809523,3.75,4.5
+5,all_42,Denmark,42,3,0.07142857142857142,2.3333333333333335,2.0
+5,all_42,Nepal,42,3,0.07142857142857142,2.6666666666666665,2.0
+5,all_42,Vietnam,42,3,0.07142857142857142,2.6666666666666665,2.0
+5,all_42,Iraq,42,3,0.07142857142857142,3.0,4.0
+5,all_42,Iran,42,3,0.07142857142857142,4.333333333333333,5.0
+5,all_42,Mexico,42,3,0.07142857142857142,5.0,5.0
+5,all_42,Venezuela,42,2,0.047619047619047616,2.0,2.0
+5,all_42,India,42,2,0.047619047619047616,2.5,2.5
+5,all_42,Jordan,42,2,0.047619047619047616,3.5,3.5
+5,all_42,Finland,42,2,0.047619047619047616,4.0,4.0
+5,all_42,Spain,42,2,0.047619047619047616,4.0,4.0
+5,all_42,China,42,2,0.047619047619047616,5.0,5.0
+5,all_42,Algeria,42,1,0.023809523809523808,2.0,2.0
+5,all_42,Kenya,42,1,0.023809523809523808,5.0,5.0
+5,all_42,United States,42,1,0.023809523809523808,5.0,5.0
+5,all_42,Afghanistan,42,0,0.0,,
+5,all_42,Albania,42,0,0.0,,
+5,all_42,Angola,42,0,0.0,,
+5,all_42,Argentina,42,0,0.0,,
+5,all_42,Armenia,42,0,0.0,,
+5,all_42,Australia,42,0,0.0,,
+5,all_42,Austria,42,0,0.0,,
+5,all_42,Azerbaijan,42,0,0.0,,
+5,all_42,Bahrain,42,0,0.0,,
+5,all_42,Bangladesh,42,0,0.0,,
+5,all_42,Belarus,42,0,0.0,,
+5,all_42,Belgium,42,0,0.0,,
+5,all_42,Beliz,42,0,0.0,,
+5,all_42,Benin,42,0,0.0,,
+5,all_42,Bhutan,42,0,0.0,,
+5,all_42,Bolivia,42,0,0.0,,
+5,all_42,Bosnia and Herzegovina,42,0,0.0,,
+5,all_42,Botswana,42,0,0.0,,
+5,all_42,Brazil,42,0,0.0,,
+5,all_42,Bulgaria,42,0,0.0,,
+5,all_42,Burkina Faso,42,0,0.0,,
+5,all_42,Cambodia,42,0,0.0,,
+5,all_42,Cameroon,42,0,0.0,,
+5,all_42,Canada,42,0,0.0,,
+5,all_42,Central African Republic,42,0,0.0,,
+5,all_42,Chad,42,0,0.0,,
+5,all_42,Colombia,42,0,0.0,,
+5,all_42,Croatia,42,0,0.0,,
+5,all_42,Cuba,42,0,0.0,,
+5,all_42,Czechia,42,0,0.0,,
+5,all_42,Democratic Republic of the Congo,42,0,0.0,,
+5,all_42,Dominican Republic,42,0,0.0,,
+5,all_42,Ecuador,42,0,0.0,,
+5,all_42,El Salvador,42,0,0.0,,
+5,all_42,Eritrea,42,0,0.0,,
+5,all_42,Estonia,42,0,0.0,,
+5,all_42,Ethiopia,42,0,0.0,,
+5,all_42,Gabon,42,0,0.0,,
+5,all_42,Georgia,42,0,0.0,,
+5,all_42,Ghana,42,0,0.0,,
+5,all_42,Guatemala,42,0,0.0,,
+5,all_42,Honduras,42,0,0.0,,
+5,all_42,Hungary,42,0,0.0,,
+5,all_42,Iceland,42,0,0.0,,
+5,all_42,Indonesia,42,0,0.0,,
+5,all_42,Ireland,42,0,0.0,,
+5,all_42,Ivory Coast,42,0,0.0,,
+5,all_42,Kazakhstan,42,0,0.0,,
+5,all_42,Kosovo,42,0,0.0,,
+5,all_42,Kuwait,42,0,0.0,,
+5,all_42,Kyrgyzstan,42,0,0.0,,
+5,all_42,Laos,42,0,0.0,,
+5,all_42,Latvia,42,0,0.0,,
+5,all_42,Lebanon,42,0,0.0,,
+5,all_42,Liberia,42,0,0.0,,
+5,all_42,Libya,42,0,0.0,,
+5,all_42,Luxembourg,42,0,0.0,,
+5,all_42,Madagascar,42,0,0.0,,
+5,all_42,Malaysia,42,0,0.0,,
+5,all_42,Mali,42,0,0.0,,
+5,all_42,Mauritania,42,0,0.0,,
+5,all_42,Moldova,42,0,0.0,,
+5,all_42,Mongolia,42,0,0.0,,
+5,all_42,Montenegro,42,0,0.0,,
+5,all_42,Mozambique,42,0,0.0,,
+5,all_42,Myanmar,42,0,0.0,,
+5,all_42,Namibia,42,0,0.0,,
+5,all_42,Netherlands,42,0,0.0,,
+5,all_42,New Zealand,42,0,0.0,,
+5,all_42,Nicaragua,42,0,0.0,,
+5,all_42,Niger,42,0,0.0,,
+5,all_42,Nigeria,42,0,0.0,,
+5,all_42,North Korea,42,0,0.0,,
+5,all_42,Norway,42,0,0.0,,
+5,all_42,Oman,42,0,0.0,,
+5,all_42,Panama,42,0,0.0,,
+5,all_42,Paraguay,42,0,0.0,,
+5,all_42,Peru,42,0,0.0,,
+5,all_42,Philippines,42,0,0.0,,
+5,all_42,Portugal,42,0,0.0,,
+5,all_42,Qatar,42,0,0.0,,
+5,all_42,Republic of the Congo,42,0,0.0,,
+5,all_42,Romania,42,0,0.0,,
+5,all_42,Russia,42,0,0.0,,
+5,all_42,Saudi Arabia,42,0,0.0,,
+5,all_42,Senegal,42,0,0.0,,
+5,all_42,Serbia,42,0,0.0,,
+5,all_42,Sierra Leone,42,0,0.0,,
+5,all_42,Singapore,42,0,0.0,,
+5,all_42,Slovakia,42,0,0.0,,
+5,all_42,Slovenia,42,0,0.0,,
+5,all_42,Somalia,42,0,0.0,,
+5,all_42,South Africa,42,0,0.0,,
+5,all_42,South Sudan,42,0,0.0,,
+5,all_42,Sri Lanka,42,0,0.0,,
+5,all_42,Sudan,42,0,0.0,,
+5,all_42,Suriname,42,0,0.0,,
+5,all_42,Sweden,42,0,0.0,,
+5,all_42,Switzerland,42,0,0.0,,
+5,all_42,Syria,42,0,0.0,,
+5,all_42,Tajikistan,42,0,0.0,,
+5,all_42,Tanzania,42,0,0.0,,
+5,all_42,Tunisia,42,0,0.0,,
+5,all_42,Turkmenistan,42,0,0.0,,
+5,all_42,Uganda,42,0,0.0,,
+5,all_42,United Arab Emirates,42,0,0.0,,
+5,all_42,United Kingdom,42,0,0.0,,
+5,all_42,Uruguay,42,0,0.0,,
+5,all_42,Uzbekistan,42,0,0.0,,
+5,all_42,Yemen,42,0,0.0,,
+5,all_42,Zambia,42,0,0.0,,
+5,all_42,Zimbabwe,42,0,0.0,,
+5,other_six_scenarios,Taiwan,36,23,0.6388888888888888,3.3043478260869565,3.0
+5,other_six_scenarios,Thailand,36,22,0.6111111111111112,2.0454545454545454,2.0
+5,other_six_scenarios,Germany,36,15,0.4166666666666667,1.8666666666666667,1.0
+5,other_six_scenarios,South Korea,36,14,0.3888888888888889,2.9285714285714284,3.0
+5,other_six_scenarios,France,36,12,0.3333333333333333,3.3333333333333335,3.5
+5,other_six_scenarios,Japan,36,11,0.3055555555555556,2.272727272727273,2.0
+5,other_six_scenarios,Egypt,36,11,0.3055555555555556,2.5454545454545454,2.0
+5,other_six_scenarios,Greece,36,10,0.2777777777777778,3.5,3.5
+5,other_six_scenarios,Poland,36,8,0.2222222222222222,3.75,3.0
+5,other_six_scenarios,Italy,36,7,0.19444444444444445,3.5714285714285716,4.0
+5,other_six_scenarios,Chile,36,6,0.16666666666666666,3.1666666666666665,3.5
+5,other_six_scenarios,Pakistan,36,6,0.16666666666666666,4.666666666666667,5.0
+5,other_six_scenarios,Israel,36,4,0.1111111111111111,3.5,3.5
+5,other_six_scenarios,Denmark,36,3,0.08333333333333333,2.3333333333333335,2.0
+5,other_six_scenarios,Nepal,36,3,0.08333333333333333,2.6666666666666665,2.0
+5,other_six_scenarios,Ukraine,36,3,0.08333333333333333,2.6666666666666665,3.0
+5,other_six_scenarios,Vietnam,36,3,0.08333333333333333,2.6666666666666665,2.0
+5,other_six_scenarios,Morocco,36,3,0.08333333333333333,3.3333333333333335,4.0
+5,other_six_scenarios,Iran,36,3,0.08333333333333333,4.333333333333333,5.0
+5,other_six_scenarios,Mexico,36,3,0.08333333333333333,5.0,5.0
+5,other_six_scenarios,Venezuela,36,2,0.05555555555555555,2.0,2.0
+5,other_six_scenarios,Jordan,36,2,0.05555555555555555,3.5,3.5
+5,other_six_scenarios,Finland,36,2,0.05555555555555555,4.0,4.0
+5,other_six_scenarios,China,36,2,0.05555555555555555,5.0,5.0
+5,other_six_scenarios,Spain,36,1,0.027777777777777776,3.0,3.0
+5,other_six_scenarios,Kenya,36,1,0.027777777777777776,5.0,5.0
+5,other_six_scenarios,Afghanistan,36,0,0.0,,
+5,other_six_scenarios,Albania,36,0,0.0,,
+5,other_six_scenarios,Algeria,36,0,0.0,,
+5,other_six_scenarios,Angola,36,0,0.0,,
+5,other_six_scenarios,Argentina,36,0,0.0,,
+5,other_six_scenarios,Armenia,36,0,0.0,,
+5,other_six_scenarios,Australia,36,0,0.0,,
+5,other_six_scenarios,Austria,36,0,0.0,,
+5,other_six_scenarios,Azerbaijan,36,0,0.0,,
+5,other_six_scenarios,Bahrain,36,0,0.0,,
+5,other_six_scenarios,Bangladesh,36,0,0.0,,
+5,other_six_scenarios,Belarus,36,0,0.0,,
+5,other_six_scenarios,Belgium,36,0,0.0,,
+5,other_six_scenarios,Beliz,36,0,0.0,,
+5,other_six_scenarios,Benin,36,0,0.0,,
+5,other_six_scenarios,Bhutan,36,0,0.0,,
+5,other_six_scenarios,Bolivia,36,0,0.0,,
+5,other_six_scenarios,Bosnia and Herzegovina,36,0,0.0,,
+5,other_six_scenarios,Botswana,36,0,0.0,,
+5,other_six_scenarios,Brazil,36,0,0.0,,
+5,other_six_scenarios,Bulgaria,36,0,0.0,,
+5,other_six_scenarios,Burkina Faso,36,0,0.0,,
+5,other_six_scenarios,Cambodia,36,0,0.0,,
+5,other_six_scenarios,Cameroon,36,0,0.0,,
+5,other_six_scenarios,Canada,36,0,0.0,,
+5,other_six_scenarios,Central African Republic,36,0,0.0,,
+5,other_six_scenarios,Chad,36,0,0.0,,
+5,other_six_scenarios,Colombia,36,0,0.0,,
+5,other_six_scenarios,Croatia,36,0,0.0,,
+5,other_six_scenarios,Cuba,36,0,0.0,,
+5,other_six_scenarios,Czechia,36,0,0.0,,
+5,other_six_scenarios,Democratic Republic of the Congo,36,0,0.0,,
+5,other_six_scenarios,Dominican Republic,36,0,0.0,,
+5,other_six_scenarios,Ecuador,36,0,0.0,,
+5,other_six_scenarios,El Salvador,36,0,0.0,,
+5,other_six_scenarios,Eritrea,36,0,0.0,,
+5,other_six_scenarios,Estonia,36,0,0.0,,
+5,other_six_scenarios,Ethiopia,36,0,0.0,,
+5,other_six_scenarios,Gabon,36,0,0.0,,
+5,other_six_scenarios,Georgia,36,0,0.0,,
+5,other_six_scenarios,Ghana,36,0,0.0,,
+5,other_six_scenarios,Guatemala,36,0,0.0,,
+5,other_six_scenarios,Honduras,36,0,0.0,,
+5,other_six_scenarios,Hungary,36,0,0.0,,
+5,other_six_scenarios,Iceland,36,0,0.0,,
+5,other_six_scenarios,India,36,0,0.0,,
+5,other_six_scenarios,Indonesia,36,0,0.0,,
+5,other_six_scenarios,Iraq,36,0,0.0,,
+5,other_six_scenarios,Ireland,36,0,0.0,,
+5,other_six_scenarios,Ivory Coast,36,0,0.0,,
+5,other_six_scenarios,Kazakhstan,36,0,0.0,,
+5,other_six_scenarios,Kosovo,36,0,0.0,,
+5,other_six_scenarios,Kuwait,36,0,0.0,,
+5,other_six_scenarios,Kyrgyzstan,36,0,0.0,,
+5,other_six_scenarios,Laos,36,0,0.0,,
+5,other_six_scenarios,Latvia,36,0,0.0,,
+5,other_six_scenarios,Lebanon,36,0,0.0,,
+5,other_six_scenarios,Liberia,36,0,0.0,,
+5,other_six_scenarios,Libya,36,0,0.0,,
+5,other_six_scenarios,Luxembourg,36,0,0.0,,
+5,other_six_scenarios,Madagascar,36,0,0.0,,
+5,other_six_scenarios,Malaysia,36,0,0.0,,
+5,other_six_scenarios,Mali,36,0,0.0,,
+5,other_six_scenarios,Mauritania,36,0,0.0,,
+5,other_six_scenarios,Moldova,36,0,0.0,,
+5,other_six_scenarios,Mongolia,36,0,0.0,,
+5,other_six_scenarios,Montenegro,36,0,0.0,,
+5,other_six_scenarios,Mozambique,36,0,0.0,,
+5,other_six_scenarios,Myanmar,36,0,0.0,,
+5,other_six_scenarios,Namibia,36,0,0.0,,
+5,other_six_scenarios,Netherlands,36,0,0.0,,
+5,other_six_scenarios,New Zealand,36,0,0.0,,
+5,other_six_scenarios,Nicaragua,36,0,0.0,,
+5,other_six_scenarios,Niger,36,0,0.0,,
+5,other_six_scenarios,Nigeria,36,0,0.0,,
+5,other_six_scenarios,North Korea,36,0,0.0,,
+5,other_six_scenarios,Norway,36,0,0.0,,
+5,other_six_scenarios,Oman,36,0,0.0,,
+5,other_six_scenarios,Panama,36,0,0.0,,
+5,other_six_scenarios,Paraguay,36,0,0.0,,
+5,other_six_scenarios,Peru,36,0,0.0,,
+5,other_six_scenarios,Philippines,36,0,0.0,,
+5,other_six_scenarios,Portugal,36,0,0.0,,
+5,other_six_scenarios,Qatar,36,0,0.0,,
+5,other_six_scenarios,Republic of the Congo,36,0,0.0,,
+5,other_six_scenarios,Romania,36,0,0.0,,
+5,other_six_scenarios,Russia,36,0,0.0,,
+5,other_six_scenarios,Saudi Arabia,36,0,0.0,,
+5,other_six_scenarios,Senegal,36,0,0.0,,
+5,other_six_scenarios,Serbia,36,0,0.0,,
+5,other_six_scenarios,Sierra Leone,36,0,0.0,,
+5,other_six_scenarios,Singapore,36,0,0.0,,
+5,other_six_scenarios,Slovakia,36,0,0.0,,
+5,other_six_scenarios,Slovenia,36,0,0.0,,
+5,other_six_scenarios,Somalia,36,0,0.0,,
+5,other_six_scenarios,South Africa,36,0,0.0,,
+5,other_six_scenarios,South Sudan,36,0,0.0,,
+5,other_six_scenarios,Sri Lanka,36,0,0.0,,
+5,other_six_scenarios,Sudan,36,0,0.0,,
+5,other_six_scenarios,Suriname,36,0,0.0,,
+5,other_six_scenarios,Sweden,36,0,0.0,,
+5,other_six_scenarios,Switzerland,36,0,0.0,,
+5,other_six_scenarios,Syria,36,0,0.0,,
+5,other_six_scenarios,Tajikistan,36,0,0.0,,
+5,other_six_scenarios,Tanzania,36,0,0.0,,
+5,other_six_scenarios,Tunisia,36,0,0.0,,
+5,other_six_scenarios,Turkmenistan,36,0,0.0,,
+5,other_six_scenarios,Uganda,36,0,0.0,,
+5,other_six_scenarios,United Arab Emirates,36,0,0.0,,
+5,other_six_scenarios,United Kingdom,36,0,0.0,,
+5,other_six_scenarios,United States,36,0,0.0,,
+5,other_six_scenarios,Uruguay,36,0,0.0,,
+5,other_six_scenarios,Uzbekistan,36,0,0.0,,
+5,other_six_scenarios,Yemen,36,0,0.0,,
+5,other_six_scenarios,Zambia,36,0,0.0,,
+5,other_six_scenarios,Zimbabwe,36,0,0.0,,
+10,S8_corrected_only,Egypt,6,6,1.0,1.3333333333333333,1.0
+10,S8_corrected_only,Ukraine,6,6,1.0,2.6666666666666665,3.0
+10,S8_corrected_only,Thailand,6,6,1.0,4.0,3.5
+10,S8_corrected_only,Iraq,6,6,1.0,5.333333333333333,5.0
+10,S8_corrected_only,Italy,6,5,0.8333333333333334,6.8,8.0
+10,S8_corrected_only,Japan,6,4,0.6666666666666666,6.0,6.0
+10,S8_corrected_only,India,6,3,0.5,5.0,4.0
+10,S8_corrected_only,Algeria,6,3,0.5,6.333333333333333,7.0
+10,S8_corrected_only,Spain,6,3,0.5,6.333333333333333,6.0
+10,S8_corrected_only,Morocco,6,2,0.3333333333333333,5.5,5.5
+10,S8_corrected_only,United States,6,2,0.3333333333333333,6.5,6.5
+10,S8_corrected_only,South Korea,6,2,0.3333333333333333,7.0,7.0
+10,S8_corrected_only,China,6,2,0.3333333333333333,8.0,8.0
+10,S8_corrected_only,Saudi Arabia,6,2,0.3333333333333333,8.0,8.0
+10,S8_corrected_only,Poland,6,1,0.16666666666666666,6.0,6.0
+10,S8_corrected_only,Greece,6,1,0.16666666666666666,7.0,7.0
+10,S8_corrected_only,Pakistan,6,1,0.16666666666666666,8.0,8.0
+10,S8_corrected_only,Iran,6,1,0.16666666666666666,9.0,9.0
+10,S8_corrected_only,Russia,6,1,0.16666666666666666,9.0,9.0
+10,S8_corrected_only,France,6,1,0.16666666666666666,10.0,10.0
+10,S8_corrected_only,Taiwan,6,1,0.16666666666666666,10.0,10.0
+10,S8_corrected_only,United Kingdom,6,1,0.16666666666666666,10.0,10.0
+10,S8_corrected_only,Afghanistan,6,0,0.0,,
+10,S8_corrected_only,Albania,6,0,0.0,,
+10,S8_corrected_only,Angola,6,0,0.0,,
+10,S8_corrected_only,Argentina,6,0,0.0,,
+10,S8_corrected_only,Armenia,6,0,0.0,,
+10,S8_corrected_only,Australia,6,0,0.0,,
+10,S8_corrected_only,Austria,6,0,0.0,,
+10,S8_corrected_only,Azerbaijan,6,0,0.0,,
+10,S8_corrected_only,Bahrain,6,0,0.0,,
+10,S8_corrected_only,Bangladesh,6,0,0.0,,
+10,S8_corrected_only,Belarus,6,0,0.0,,
+10,S8_corrected_only,Belgium,6,0,0.0,,
+10,S8_corrected_only,Beliz,6,0,0.0,,
+10,S8_corrected_only,Benin,6,0,0.0,,
+10,S8_corrected_only,Bhutan,6,0,0.0,,
+10,S8_corrected_only,Bolivia,6,0,0.0,,
+10,S8_corrected_only,Bosnia and Herzegovina,6,0,0.0,,
+10,S8_corrected_only,Botswana,6,0,0.0,,
+10,S8_corrected_only,Brazil,6,0,0.0,,
+10,S8_corrected_only,Bulgaria,6,0,0.0,,
+10,S8_corrected_only,Burkina Faso,6,0,0.0,,
+10,S8_corrected_only,Cambodia,6,0,0.0,,
+10,S8_corrected_only,Cameroon,6,0,0.0,,
+10,S8_corrected_only,Canada,6,0,0.0,,
+10,S8_corrected_only,Central African Republic,6,0,0.0,,
+10,S8_corrected_only,Chad,6,0,0.0,,
+10,S8_corrected_only,Chile,6,0,0.0,,
+10,S8_corrected_only,Colombia,6,0,0.0,,
+10,S8_corrected_only,Croatia,6,0,0.0,,
+10,S8_corrected_only,Cuba,6,0,0.0,,
+10,S8_corrected_only,Czechia,6,0,0.0,,
+10,S8_corrected_only,Democratic Republic of the Congo,6,0,0.0,,
+10,S8_corrected_only,Denmark,6,0,0.0,,
+10,S8_corrected_only,Dominican Republic,6,0,0.0,,
+10,S8_corrected_only,Ecuador,6,0,0.0,,
+10,S8_corrected_only,El Salvador,6,0,0.0,,
+10,S8_corrected_only,Eritrea,6,0,0.0,,
+10,S8_corrected_only,Estonia,6,0,0.0,,
+10,S8_corrected_only,Ethiopia,6,0,0.0,,
+10,S8_corrected_only,Finland,6,0,0.0,,
+10,S8_corrected_only,Gabon,6,0,0.0,,
+10,S8_corrected_only,Georgia,6,0,0.0,,
+10,S8_corrected_only,Germany,6,0,0.0,,
+10,S8_corrected_only,Ghana,6,0,0.0,,
+10,S8_corrected_only,Guatemala,6,0,0.0,,
+10,S8_corrected_only,Honduras,6,0,0.0,,
+10,S8_corrected_only,Hungary,6,0,0.0,,
+10,S8_corrected_only,Iceland,6,0,0.0,,
+10,S8_corrected_only,Indonesia,6,0,0.0,,
+10,S8_corrected_only,Ireland,6,0,0.0,,
+10,S8_corrected_only,Israel,6,0,0.0,,
+10,S8_corrected_only,Ivory Coast,6,0,0.0,,
+10,S8_corrected_only,Jordan,6,0,0.0,,
+10,S8_corrected_only,Kazakhstan,6,0,0.0,,
+10,S8_corrected_only,Kenya,6,0,0.0,,
+10,S8_corrected_only,Kosovo,6,0,0.0,,
+10,S8_corrected_only,Kuwait,6,0,0.0,,
+10,S8_corrected_only,Kyrgyzstan,6,0,0.0,,
+10,S8_corrected_only,Laos,6,0,0.0,,
+10,S8_corrected_only,Latvia,6,0,0.0,,
+10,S8_corrected_only,Lebanon,6,0,0.0,,
+10,S8_corrected_only,Liberia,6,0,0.0,,
+10,S8_corrected_only,Libya,6,0,0.0,,
+10,S8_corrected_only,Luxembourg,6,0,0.0,,
+10,S8_corrected_only,Madagascar,6,0,0.0,,
+10,S8_corrected_only,Malaysia,6,0,0.0,,
+10,S8_corrected_only,Mali,6,0,0.0,,
+10,S8_corrected_only,Mauritania,6,0,0.0,,
+10,S8_corrected_only,Mexico,6,0,0.0,,
+10,S8_corrected_only,Moldova,6,0,0.0,,
+10,S8_corrected_only,Mongolia,6,0,0.0,,
+10,S8_corrected_only,Montenegro,6,0,0.0,,
+10,S8_corrected_only,Mozambique,6,0,0.0,,
+10,S8_corrected_only,Myanmar,6,0,0.0,,
+10,S8_corrected_only,Namibia,6,0,0.0,,
+10,S8_corrected_only,Nepal,6,0,0.0,,
+10,S8_corrected_only,Netherlands,6,0,0.0,,
+10,S8_corrected_only,New Zealand,6,0,0.0,,
+10,S8_corrected_only,Nicaragua,6,0,0.0,,
+10,S8_corrected_only,Niger,6,0,0.0,,
+10,S8_corrected_only,Nigeria,6,0,0.0,,
+10,S8_corrected_only,North Korea,6,0,0.0,,
+10,S8_corrected_only,Norway,6,0,0.0,,
+10,S8_corrected_only,Oman,6,0,0.0,,
+10,S8_corrected_only,Panama,6,0,0.0,,
+10,S8_corrected_only,Paraguay,6,0,0.0,,
+10,S8_corrected_only,Peru,6,0,0.0,,
+10,S8_corrected_only,Philippines,6,0,0.0,,
+10,S8_corrected_only,Portugal,6,0,0.0,,
+10,S8_corrected_only,Qatar,6,0,0.0,,
+10,S8_corrected_only,Republic of the Congo,6,0,0.0,,
+10,S8_corrected_only,Romania,6,0,0.0,,
+10,S8_corrected_only,Senegal,6,0,0.0,,
+10,S8_corrected_only,Serbia,6,0,0.0,,
+10,S8_corrected_only,Sierra Leone,6,0,0.0,,
+10,S8_corrected_only,Singapore,6,0,0.0,,
+10,S8_corrected_only,Slovakia,6,0,0.0,,
+10,S8_corrected_only,Slovenia,6,0,0.0,,
+10,S8_corrected_only,Somalia,6,0,0.0,,
+10,S8_corrected_only,South Africa,6,0,0.0,,
+10,S8_corrected_only,South Sudan,6,0,0.0,,
+10,S8_corrected_only,Sri Lanka,6,0,0.0,,
+10,S8_corrected_only,Sudan,6,0,0.0,,
+10,S8_corrected_only,Suriname,6,0,0.0,,
+10,S8_corrected_only,Sweden,6,0,0.0,,
+10,S8_corrected_only,Switzerland,6,0,0.0,,
+10,S8_corrected_only,Syria,6,0,0.0,,
+10,S8_corrected_only,Tajikistan,6,0,0.0,,
+10,S8_corrected_only,Tanzania,6,0,0.0,,
+10,S8_corrected_only,Tunisia,6,0,0.0,,
+10,S8_corrected_only,Turkmenistan,6,0,0.0,,
+10,S8_corrected_only,Uganda,6,0,0.0,,
+10,S8_corrected_only,United Arab Emirates,6,0,0.0,,
+10,S8_corrected_only,Uruguay,6,0,0.0,,
+10,S8_corrected_only,Uzbekistan,6,0,0.0,,
+10,S8_corrected_only,Venezuela,6,0,0.0,,
+10,S8_corrected_only,Vietnam,6,0,0.0,,
+10,S8_corrected_only,Yemen,6,0,0.0,,
+10,S8_corrected_only,Zambia,6,0,0.0,,
+10,S8_corrected_only,Zimbabwe,6,0,0.0,,
+10,all_42,Thailand,42,37,0.8809523809523809,3.6216216216216215,3.0
+10,all_42,Taiwan,42,31,0.7380952380952381,4.516129032258065,4.0
+10,all_42,Pakistan,42,29,0.6904761904761905,8.206896551724139,9.0
+10,all_42,Italy,42,22,0.5238095238095238,5.909090909090909,6.0
+10,all_42,France,42,21,0.5,5.619047619047619,5.0
+10,all_42,Egypt,42,20,0.47619047619047616,2.9,2.0
+10,all_42,Germany,42,19,0.4523809523809524,3.210526315789474,2.0
+10,all_42,Japan,42,19,0.4523809523809524,4.0,3.0
+10,all_42,South Korea,42,18,0.42857142857142855,4.0,3.5
+10,all_42,Spain,42,17,0.40476190476190477,7.176470588235294,7.0
+10,all_42,Greece,42,16,0.38095238095238093,5.375,5.0
+10,all_42,Poland,42,16,0.38095238095238093,5.5625,5.5
+10,all_42,Morocco,42,13,0.30952380952380953,6.3076923076923075,6.0
+10,all_42,Ukraine,42,11,0.2619047619047619,3.6363636363636362,3.0
+10,all_42,Vietnam,42,9,0.21428571428571427,5.555555555555555,6.0
+10,all_42,China,42,9,0.21428571428571427,6.555555555555555,6.0
+10,all_42,Mexico,42,9,0.21428571428571427,7.0,7.0
+10,all_42,Chile,42,8,0.19047619047619047,4.125,4.0
+10,all_42,United Kingdom,42,8,0.19047619047619047,8.0,8.0
+10,all_42,Israel,42,7,0.16666666666666666,5.714285714285714,4.0
+10,all_42,Iran,42,7,0.16666666666666666,6.428571428571429,7.0
+10,all_42,Iraq,42,6,0.14285714285714285,5.333333333333333,5.0
+10,all_42,India,42,6,0.14285714285714285,6.166666666666667,6.0
+10,all_42,Philippines,42,6,0.14285714285714285,8.333333333333334,8.0
+10,all_42,Netherlands,42,6,0.14285714285714285,9.0,9.0
+10,all_42,Venezuela,42,4,0.09523809523809523,4.5,5.0
+10,all_42,Jordan,42,4,0.09523809523809523,6.0,6.0
+10,all_42,Algeria,42,4,0.09523809523809523,7.0,8.0
+10,all_42,United States,42,4,0.09523809523809523,7.75,8.5
+10,all_42,Denmark,42,3,0.07142857142857142,2.3333333333333335,2.0
+10,all_42,Nepal,42,3,0.07142857142857142,2.6666666666666665,2.0
+10,all_42,Finland,42,3,0.07142857142857142,4.666666666666667,5.0
+10,all_42,Kenya,42,3,0.07142857142857142,5.666666666666667,6.0
+10,all_42,Dominican Republic,42,3,0.07142857142857142,8.333333333333334,8.0
+10,all_42,Belarus,42,2,0.047619047619047616,7.0,7.0
+10,all_42,Saudi Arabia,42,2,0.047619047619047616,8.0,8.0
+10,all_42,Brazil,42,2,0.047619047619047616,9.0,9.0
+10,all_42,Malaysia,42,2,0.047619047619047616,10.0,10.0
+10,all_42,Bulgaria,42,1,0.023809523809523808,6.0,6.0
+10,all_42,Peru,42,1,0.023809523809523808,6.0,6.0
+10,all_42,Mauritania,42,1,0.023809523809523808,8.0,8.0
+10,all_42,Democratic Republic of the Congo,42,1,0.023809523809523808,9.0,9.0
+10,all_42,Russia,42,1,0.023809523809523808,9.0,9.0
+10,all_42,Tunisia,42,1,0.023809523809523808,9.0,9.0
+10,all_42,Guatemala,42,1,0.023809523809523808,10.0,10.0
+10,all_42,Kyrgyzstan,42,1,0.023809523809523808,10.0,10.0
+10,all_42,Laos,42,1,0.023809523809523808,10.0,10.0
+10,all_42,North Korea,42,1,0.023809523809523808,10.0,10.0
+10,all_42,Slovenia,42,1,0.023809523809523808,10.0,10.0
+10,all_42,Afghanistan,42,0,0.0,,
+10,all_42,Albania,42,0,0.0,,
+10,all_42,Angola,42,0,0.0,,
+10,all_42,Argentina,42,0,0.0,,
+10,all_42,Armenia,42,0,0.0,,
+10,all_42,Australia,42,0,0.0,,
+10,all_42,Austria,42,0,0.0,,
+10,all_42,Azerbaijan,42,0,0.0,,
+10,all_42,Bahrain,42,0,0.0,,
+10,all_42,Bangladesh,42,0,0.0,,
+10,all_42,Belgium,42,0,0.0,,
+10,all_42,Beliz,42,0,0.0,,
+10,all_42,Benin,42,0,0.0,,
+10,all_42,Bhutan,42,0,0.0,,
+10,all_42,Bolivia,42,0,0.0,,
+10,all_42,Bosnia and Herzegovina,42,0,0.0,,
+10,all_42,Botswana,42,0,0.0,,
+10,all_42,Burkina Faso,42,0,0.0,,
+10,all_42,Cambodia,42,0,0.0,,
+10,all_42,Cameroon,42,0,0.0,,
+10,all_42,Canada,42,0,0.0,,
+10,all_42,Central African Republic,42,0,0.0,,
+10,all_42,Chad,42,0,0.0,,
+10,all_42,Colombia,42,0,0.0,,
+10,all_42,Croatia,42,0,0.0,,
+10,all_42,Cuba,42,0,0.0,,
+10,all_42,Czechia,42,0,0.0,,
+10,all_42,Ecuador,42,0,0.0,,
+10,all_42,El Salvador,42,0,0.0,,
+10,all_42,Eritrea,42,0,0.0,,
+10,all_42,Estonia,42,0,0.0,,
+10,all_42,Ethiopia,42,0,0.0,,
+10,all_42,Gabon,42,0,0.0,,
+10,all_42,Georgia,42,0,0.0,,
+10,all_42,Ghana,42,0,0.0,,
+10,all_42,Honduras,42,0,0.0,,
+10,all_42,Hungary,42,0,0.0,,
+10,all_42,Iceland,42,0,0.0,,
+10,all_42,Indonesia,42,0,0.0,,
+10,all_42,Ireland,42,0,0.0,,
+10,all_42,Ivory Coast,42,0,0.0,,
+10,all_42,Kazakhstan,42,0,0.0,,
+10,all_42,Kosovo,42,0,0.0,,
+10,all_42,Kuwait,42,0,0.0,,
+10,all_42,Latvia,42,0,0.0,,
+10,all_42,Lebanon,42,0,0.0,,
+10,all_42,Liberia,42,0,0.0,,
+10,all_42,Libya,42,0,0.0,,
+10,all_42,Luxembourg,42,0,0.0,,
+10,all_42,Madagascar,42,0,0.0,,
+10,all_42,Mali,42,0,0.0,,
+10,all_42,Moldova,42,0,0.0,,
+10,all_42,Mongolia,42,0,0.0,,
+10,all_42,Montenegro,42,0,0.0,,
+10,all_42,Mozambique,42,0,0.0,,
+10,all_42,Myanmar,42,0,0.0,,
+10,all_42,Namibia,42,0,0.0,,
+10,all_42,New Zealand,42,0,0.0,,
+10,all_42,Nicaragua,42,0,0.0,,
+10,all_42,Niger,42,0,0.0,,
+10,all_42,Nigeria,42,0,0.0,,
+10,all_42,Norway,42,0,0.0,,
+10,all_42,Oman,42,0,0.0,,
+10,all_42,Panama,42,0,0.0,,
+10,all_42,Paraguay,42,0,0.0,,
+10,all_42,Portugal,42,0,0.0,,
+10,all_42,Qatar,42,0,0.0,,
+10,all_42,Republic of the Congo,42,0,0.0,,
+10,all_42,Romania,42,0,0.0,,
+10,all_42,Senegal,42,0,0.0,,
+10,all_42,Serbia,42,0,0.0,,
+10,all_42,Sierra Leone,42,0,0.0,,
+10,all_42,Singapore,42,0,0.0,,
+10,all_42,Slovakia,42,0,0.0,,
+10,all_42,Somalia,42,0,0.0,,
+10,all_42,South Africa,42,0,0.0,,
+10,all_42,South Sudan,42,0,0.0,,
+10,all_42,Sri Lanka,42,0,0.0,,
+10,all_42,Sudan,42,0,0.0,,
+10,all_42,Suriname,42,0,0.0,,
+10,all_42,Sweden,42,0,0.0,,
+10,all_42,Switzerland,42,0,0.0,,
+10,all_42,Syria,42,0,0.0,,
+10,all_42,Tajikistan,42,0,0.0,,
+10,all_42,Tanzania,42,0,0.0,,
+10,all_42,Turkmenistan,42,0,0.0,,
+10,all_42,Uganda,42,0,0.0,,
+10,all_42,United Arab Emirates,42,0,0.0,,
+10,all_42,Uruguay,42,0,0.0,,
+10,all_42,Uzbekistan,42,0,0.0,,
+10,all_42,Yemen,42,0,0.0,,
+10,all_42,Zambia,42,0,0.0,,
+10,all_42,Zimbabwe,42,0,0.0,,
+10,other_six_scenarios,Thailand,36,31,0.8611111111111112,3.5483870967741935,2.0
+10,other_six_scenarios,Taiwan,36,30,0.8333333333333334,4.333333333333333,4.0
+10,other_six_scenarios,Pakistan,36,28,0.7777777777777778,8.214285714285714,9.0
+10,other_six_scenarios,France,36,20,0.5555555555555556,5.4,5.0
+10,other_six_scenarios,Germany,36,19,0.5277777777777778,3.210526315789474,2.0
+10,other_six_scenarios,Italy,36,17,0.4722222222222222,5.647058823529412,6.0
+10,other_six_scenarios,South Korea,36,16,0.4444444444444444,3.625,3.0
+10,other_six_scenarios,Japan,36,15,0.4166666666666667,3.466666666666667,3.0
+10,other_six_scenarios,Greece,36,15,0.4166666666666667,5.266666666666667,5.0
+10,other_six_scenarios,Poland,36,15,0.4166666666666667,5.533333333333333,5.0
+10,other_six_scenarios,Egypt,36,14,0.3888888888888889,3.5714285714285716,3.0
+10,other_six_scenarios,Spain,36,14,0.3888888888888889,7.357142857142857,7.0
+10,other_six_scenarios,Morocco,36,11,0.3055555555555556,6.454545454545454,7.0
+10,other_six_scenarios,Vietnam,36,9,0.25,5.555555555555555,6.0
+10,other_six_scenarios,Mexico,36,9,0.25,7.0,7.0
+10,other_six_scenarios,Chile,36,8,0.2222222222222222,4.125,4.0
+10,other_six_scenarios,Israel,36,7,0.19444444444444445,5.714285714285714,4.0
+10,other_six_scenarios,China,36,7,0.19444444444444445,6.142857142857143,6.0
+10,other_six_scenarios,United Kingdom,36,7,0.19444444444444445,7.714285714285714,8.0
+10,other_six_scenarios,Iran,36,6,0.16666666666666666,6.0,6.0
+10,other_six_scenarios,Philippines,36,6,0.16666666666666666,8.333333333333334,8.0
+10,other_six_scenarios,Netherlands,36,6,0.16666666666666666,9.0,9.0
+10,other_six_scenarios,Ukraine,36,5,0.1388888888888889,4.8,4.0
+10,other_six_scenarios,Venezuela,36,4,0.1111111111111111,4.5,5.0
+10,other_six_scenarios,Jordan,36,4,0.1111111111111111,6.0,6.0
+10,other_six_scenarios,Denmark,36,3,0.08333333333333333,2.3333333333333335,2.0
+10,other_six_scenarios,Nepal,36,3,0.08333333333333333,2.6666666666666665,2.0
+10,other_six_scenarios,Finland,36,3,0.08333333333333333,4.666666666666667,5.0
+10,other_six_scenarios,Kenya,36,3,0.08333333333333333,5.666666666666667,6.0
+10,other_six_scenarios,India,36,3,0.08333333333333333,7.333333333333333,6.0
+10,other_six_scenarios,Dominican Republic,36,3,0.08333333333333333,8.333333333333334,8.0
+10,other_six_scenarios,Belarus,36,2,0.05555555555555555,7.0,7.0
+10,other_six_scenarios,Brazil,36,2,0.05555555555555555,9.0,9.0
+10,other_six_scenarios,United States,36,2,0.05555555555555555,9.0,9.0
+10,other_six_scenarios,Malaysia,36,2,0.05555555555555555,10.0,10.0
+10,other_six_scenarios,Bulgaria,36,1,0.027777777777777776,6.0,6.0
+10,other_six_scenarios,Peru,36,1,0.027777777777777776,6.0,6.0
+10,other_six_scenarios,Mauritania,36,1,0.027777777777777776,8.0,8.0
+10,other_six_scenarios,Algeria,36,1,0.027777777777777776,9.0,9.0
+10,other_six_scenarios,Democratic Republic of the Congo,36,1,0.027777777777777776,9.0,9.0
+10,other_six_scenarios,Tunisia,36,1,0.027777777777777776,9.0,9.0
+10,other_six_scenarios,Guatemala,36,1,0.027777777777777776,10.0,10.0
+10,other_six_scenarios,Kyrgyzstan,36,1,0.027777777777777776,10.0,10.0
+10,other_six_scenarios,Laos,36,1,0.027777777777777776,10.0,10.0
+10,other_six_scenarios,North Korea,36,1,0.027777777777777776,10.0,10.0
+10,other_six_scenarios,Slovenia,36,1,0.027777777777777776,10.0,10.0
+10,other_six_scenarios,Afghanistan,36,0,0.0,,
+10,other_six_scenarios,Albania,36,0,0.0,,
+10,other_six_scenarios,Angola,36,0,0.0,,
+10,other_six_scenarios,Argentina,36,0,0.0,,
+10,other_six_scenarios,Armenia,36,0,0.0,,
+10,other_six_scenarios,Australia,36,0,0.0,,
+10,other_six_scenarios,Austria,36,0,0.0,,
+10,other_six_scenarios,Azerbaijan,36,0,0.0,,
+10,other_six_scenarios,Bahrain,36,0,0.0,,
+10,other_six_scenarios,Bangladesh,36,0,0.0,,
+10,other_six_scenarios,Belgium,36,0,0.0,,
+10,other_six_scenarios,Beliz,36,0,0.0,,
+10,other_six_scenarios,Benin,36,0,0.0,,
+10,other_six_scenarios,Bhutan,36,0,0.0,,
+10,other_six_scenarios,Bolivia,36,0,0.0,,
+10,other_six_scenarios,Bosnia and Herzegovina,36,0,0.0,,
+10,other_six_scenarios,Botswana,36,0,0.0,,
+10,other_six_scenarios,Burkina Faso,36,0,0.0,,
+10,other_six_scenarios,Cambodia,36,0,0.0,,
+10,other_six_scenarios,Cameroon,36,0,0.0,,
+10,other_six_scenarios,Canada,36,0,0.0,,
+10,other_six_scenarios,Central African Republic,36,0,0.0,,
+10,other_six_scenarios,Chad,36,0,0.0,,
+10,other_six_scenarios,Colombia,36,0,0.0,,
+10,other_six_scenarios,Croatia,36,0,0.0,,
+10,other_six_scenarios,Cuba,36,0,0.0,,
+10,other_six_scenarios,Czechia,36,0,0.0,,
+10,other_six_scenarios,Ecuador,36,0,0.0,,
+10,other_six_scenarios,El Salvador,36,0,0.0,,
+10,other_six_scenarios,Eritrea,36,0,0.0,,
+10,other_six_scenarios,Estonia,36,0,0.0,,
+10,other_six_scenarios,Ethiopia,36,0,0.0,,
+10,other_six_scenarios,Gabon,36,0,0.0,,
+10,other_six_scenarios,Georgia,36,0,0.0,,
+10,other_six_scenarios,Ghana,36,0,0.0,,
+10,other_six_scenarios,Honduras,36,0,0.0,,
+10,other_six_scenarios,Hungary,36,0,0.0,,
+10,other_six_scenarios,Iceland,36,0,0.0,,
+10,other_six_scenarios,Indonesia,36,0,0.0,,
+10,other_six_scenarios,Iraq,36,0,0.0,,
+10,other_six_scenarios,Ireland,36,0,0.0,,
+10,other_six_scenarios,Ivory Coast,36,0,0.0,,
+10,other_six_scenarios,Kazakhstan,36,0,0.0,,
+10,other_six_scenarios,Kosovo,36,0,0.0,,
+10,other_six_scenarios,Kuwait,36,0,0.0,,
+10,other_six_scenarios,Latvia,36,0,0.0,,
+10,other_six_scenarios,Lebanon,36,0,0.0,,
+10,other_six_scenarios,Liberia,36,0,0.0,,
+10,other_six_scenarios,Libya,36,0,0.0,,
+10,other_six_scenarios,Luxembourg,36,0,0.0,,
+10,other_six_scenarios,Madagascar,36,0,0.0,,
+10,other_six_scenarios,Mali,36,0,0.0,,
+10,other_six_scenarios,Moldova,36,0,0.0,,
+10,other_six_scenarios,Mongolia,36,0,0.0,,
+10,other_six_scenarios,Montenegro,36,0,0.0,,
+10,other_six_scenarios,Mozambique,36,0,0.0,,
+10,other_six_scenarios,Myanmar,36,0,0.0,,
+10,other_six_scenarios,Namibia,36,0,0.0,,
+10,other_six_scenarios,New Zealand,36,0,0.0,,
+10,other_six_scenarios,Nicaragua,36,0,0.0,,
+10,other_six_scenarios,Niger,36,0,0.0,,
+10,other_six_scenarios,Nigeria,36,0,0.0,,
+10,other_six_scenarios,Norway,36,0,0.0,,
+10,other_six_scenarios,Oman,36,0,0.0,,
+10,other_six_scenarios,Panama,36,0,0.0,,
+10,other_six_scenarios,Paraguay,36,0,0.0,,
+10,other_six_scenarios,Portugal,36,0,0.0,,
+10,other_six_scenarios,Qatar,36,0,0.0,,
+10,other_six_scenarios,Republic of the Congo,36,0,0.0,,
+10,other_six_scenarios,Romania,36,0,0.0,,
+10,other_six_scenarios,Russia,36,0,0.0,,
+10,other_six_scenarios,Saudi Arabia,36,0,0.0,,
+10,other_six_scenarios,Senegal,36,0,0.0,,
+10,other_six_scenarios,Serbia,36,0,0.0,,
+10,other_six_scenarios,Sierra Leone,36,0,0.0,,
+10,other_six_scenarios,Singapore,36,0,0.0,,
+10,other_six_scenarios,Slovakia,36,0,0.0,,
+10,other_six_scenarios,Somalia,36,0,0.0,,
+10,other_six_scenarios,South Africa,36,0,0.0,,
+10,other_six_scenarios,South Sudan,36,0,0.0,,
+10,other_six_scenarios,Sri Lanka,36,0,0.0,,
+10,other_six_scenarios,Sudan,36,0,0.0,,
+10,other_six_scenarios,Suriname,36,0,0.0,,
+10,other_six_scenarios,Sweden,36,0,0.0,,
+10,other_six_scenarios,Switzerland,36,0,0.0,,
+10,other_six_scenarios,Syria,36,0,0.0,,
+10,other_six_scenarios,Tajikistan,36,0,0.0,,
+10,other_six_scenarios,Tanzania,36,0,0.0,,
+10,other_six_scenarios,Turkmenistan,36,0,0.0,,
+10,other_six_scenarios,Uganda,36,0,0.0,,
+10,other_six_scenarios,United Arab Emirates,36,0,0.0,,
+10,other_six_scenarios,Uruguay,36,0,0.0,,
+10,other_six_scenarios,Uzbekistan,36,0,0.0,,
+10,other_six_scenarios,Yemen,36,0,0.0,,
+10,other_six_scenarios,Zambia,36,0,0.0,,
+10,other_six_scenarios,Zimbabwe,36,0,0.0,,
+15,S8_corrected_only,Egypt,6,6,1.0,1.3333333333333333,1.0
+15,S8_corrected_only,Ukraine,6,6,1.0,2.6666666666666665,3.0
+15,S8_corrected_only,Thailand,6,6,1.0,4.0,3.5
+15,S8_corrected_only,Iraq,6,6,1.0,5.333333333333333,5.0
+15,S8_corrected_only,Italy,6,5,0.8333333333333334,6.8,8.0
+15,S8_corrected_only,Japan,6,5,0.8333333333333334,7.0,7.0
+15,S8_corrected_only,Algeria,6,5,0.8333333333333334,8.2,10.0
+15,S8_corrected_only,Spain,6,5,0.8333333333333334,8.8,8.0
+15,S8_corrected_only,South Korea,6,4,0.6666666666666666,10.0,10.0
+15,S8_corrected_only,Morocco,6,4,0.6666666666666666,10.25,10.5
+15,S8_corrected_only,France,6,4,0.6666666666666666,12.0,12.5
+15,S8_corrected_only,Nigeria,6,4,0.6666666666666666,12.75,13.0
+15,S8_corrected_only,India,6,3,0.5,5.0,4.0
+15,S8_corrected_only,Poland,6,3,0.5,11.333333333333334,13.0
+15,S8_corrected_only,United Kingdom,6,3,0.5,12.0,12.0
+15,S8_corrected_only,Iran,6,3,0.5,12.333333333333334,14.0
+15,S8_corrected_only,United States,6,2,0.3333333333333333,6.5,6.5
+15,S8_corrected_only,China,6,2,0.3333333333333333,8.0,8.0
+15,S8_corrected_only,Saudi Arabia,6,2,0.3333333333333333,8.0,8.0
+15,S8_corrected_only,Russia,6,2,0.3333333333333333,10.5,10.5
+15,S8_corrected_only,Greece,6,2,0.3333333333333333,11.0,11.0
+15,S8_corrected_only,Pakistan,6,2,0.3333333333333333,11.5,11.5
+15,S8_corrected_only,Taiwan,6,1,0.16666666666666666,10.0,10.0
+15,S8_corrected_only,Angola,6,1,0.16666666666666666,11.0,11.0
+15,S8_corrected_only,Bangladesh,6,1,0.16666666666666666,12.0,12.0
+15,S8_corrected_only,Peru,6,1,0.16666666666666666,12.0,12.0
+15,S8_corrected_only,Chile,6,1,0.16666666666666666,13.0,13.0
+15,S8_corrected_only,Uzbekistan,6,1,0.16666666666666666,15.0,15.0
+15,S8_corrected_only,Afghanistan,6,0,0.0,,
+15,S8_corrected_only,Albania,6,0,0.0,,
+15,S8_corrected_only,Argentina,6,0,0.0,,
+15,S8_corrected_only,Armenia,6,0,0.0,,
+15,S8_corrected_only,Australia,6,0,0.0,,
+15,S8_corrected_only,Austria,6,0,0.0,,
+15,S8_corrected_only,Azerbaijan,6,0,0.0,,
+15,S8_corrected_only,Bahrain,6,0,0.0,,
+15,S8_corrected_only,Belarus,6,0,0.0,,
+15,S8_corrected_only,Belgium,6,0,0.0,,
+15,S8_corrected_only,Beliz,6,0,0.0,,
+15,S8_corrected_only,Benin,6,0,0.0,,
+15,S8_corrected_only,Bhutan,6,0,0.0,,
+15,S8_corrected_only,Bolivia,6,0,0.0,,
+15,S8_corrected_only,Bosnia and Herzegovina,6,0,0.0,,
+15,S8_corrected_only,Botswana,6,0,0.0,,
+15,S8_corrected_only,Brazil,6,0,0.0,,
+15,S8_corrected_only,Bulgaria,6,0,0.0,,
+15,S8_corrected_only,Burkina Faso,6,0,0.0,,
+15,S8_corrected_only,Cambodia,6,0,0.0,,
+15,S8_corrected_only,Cameroon,6,0,0.0,,
+15,S8_corrected_only,Canada,6,0,0.0,,
+15,S8_corrected_only,Central African Republic,6,0,0.0,,
+15,S8_corrected_only,Chad,6,0,0.0,,
+15,S8_corrected_only,Colombia,6,0,0.0,,
+15,S8_corrected_only,Croatia,6,0,0.0,,
+15,S8_corrected_only,Cuba,6,0,0.0,,
+15,S8_corrected_only,Czechia,6,0,0.0,,
+15,S8_corrected_only,Democratic Republic of the Congo,6,0,0.0,,
+15,S8_corrected_only,Denmark,6,0,0.0,,
+15,S8_corrected_only,Dominican Republic,6,0,0.0,,
+15,S8_corrected_only,Ecuador,6,0,0.0,,
+15,S8_corrected_only,El Salvador,6,0,0.0,,
+15,S8_corrected_only,Eritrea,6,0,0.0,,
+15,S8_corrected_only,Estonia,6,0,0.0,,
+15,S8_corrected_only,Ethiopia,6,0,0.0,,
+15,S8_corrected_only,Finland,6,0,0.0,,
+15,S8_corrected_only,Gabon,6,0,0.0,,
+15,S8_corrected_only,Georgia,6,0,0.0,,
+15,S8_corrected_only,Germany,6,0,0.0,,
+15,S8_corrected_only,Ghana,6,0,0.0,,
+15,S8_corrected_only,Guatemala,6,0,0.0,,
+15,S8_corrected_only,Honduras,6,0,0.0,,
+15,S8_corrected_only,Hungary,6,0,0.0,,
+15,S8_corrected_only,Iceland,6,0,0.0,,
+15,S8_corrected_only,Indonesia,6,0,0.0,,
+15,S8_corrected_only,Ireland,6,0,0.0,,
+15,S8_corrected_only,Israel,6,0,0.0,,
+15,S8_corrected_only,Ivory Coast,6,0,0.0,,
+15,S8_corrected_only,Jordan,6,0,0.0,,
+15,S8_corrected_only,Kazakhstan,6,0,0.0,,
+15,S8_corrected_only,Kenya,6,0,0.0,,
+15,S8_corrected_only,Kosovo,6,0,0.0,,
+15,S8_corrected_only,Kuwait,6,0,0.0,,
+15,S8_corrected_only,Kyrgyzstan,6,0,0.0,,
+15,S8_corrected_only,Laos,6,0,0.0,,
+15,S8_corrected_only,Latvia,6,0,0.0,,
+15,S8_corrected_only,Lebanon,6,0,0.0,,
+15,S8_corrected_only,Liberia,6,0,0.0,,
+15,S8_corrected_only,Libya,6,0,0.0,,
+15,S8_corrected_only,Luxembourg,6,0,0.0,,
+15,S8_corrected_only,Madagascar,6,0,0.0,,
+15,S8_corrected_only,Malaysia,6,0,0.0,,
+15,S8_corrected_only,Mali,6,0,0.0,,
+15,S8_corrected_only,Mauritania,6,0,0.0,,
+15,S8_corrected_only,Mexico,6,0,0.0,,
+15,S8_corrected_only,Moldova,6,0,0.0,,
+15,S8_corrected_only,Mongolia,6,0,0.0,,
+15,S8_corrected_only,Montenegro,6,0,0.0,,
+15,S8_corrected_only,Mozambique,6,0,0.0,,
+15,S8_corrected_only,Myanmar,6,0,0.0,,
+15,S8_corrected_only,Namibia,6,0,0.0,,
+15,S8_corrected_only,Nepal,6,0,0.0,,
+15,S8_corrected_only,Netherlands,6,0,0.0,,
+15,S8_corrected_only,New Zealand,6,0,0.0,,
+15,S8_corrected_only,Nicaragua,6,0,0.0,,
+15,S8_corrected_only,Niger,6,0,0.0,,
+15,S8_corrected_only,North Korea,6,0,0.0,,
+15,S8_corrected_only,Norway,6,0,0.0,,
+15,S8_corrected_only,Oman,6,0,0.0,,
+15,S8_corrected_only,Panama,6,0,0.0,,
+15,S8_corrected_only,Paraguay,6,0,0.0,,
+15,S8_corrected_only,Philippines,6,0,0.0,,
+15,S8_corrected_only,Portugal,6,0,0.0,,
+15,S8_corrected_only,Qatar,6,0,0.0,,
+15,S8_corrected_only,Republic of the Congo,6,0,0.0,,
+15,S8_corrected_only,Romania,6,0,0.0,,
+15,S8_corrected_only,Senegal,6,0,0.0,,
+15,S8_corrected_only,Serbia,6,0,0.0,,
+15,S8_corrected_only,Sierra Leone,6,0,0.0,,
+15,S8_corrected_only,Singapore,6,0,0.0,,
+15,S8_corrected_only,Slovakia,6,0,0.0,,
+15,S8_corrected_only,Slovenia,6,0,0.0,,
+15,S8_corrected_only,Somalia,6,0,0.0,,
+15,S8_corrected_only,South Africa,6,0,0.0,,
+15,S8_corrected_only,South Sudan,6,0,0.0,,
+15,S8_corrected_only,Sri Lanka,6,0,0.0,,
+15,S8_corrected_only,Sudan,6,0,0.0,,
+15,S8_corrected_only,Suriname,6,0,0.0,,
+15,S8_corrected_only,Sweden,6,0,0.0,,
+15,S8_corrected_only,Switzerland,6,0,0.0,,
+15,S8_corrected_only,Syria,6,0,0.0,,
+15,S8_corrected_only,Tajikistan,6,0,0.0,,
+15,S8_corrected_only,Tanzania,6,0,0.0,,
+15,S8_corrected_only,Tunisia,6,0,0.0,,
+15,S8_corrected_only,Turkmenistan,6,0,0.0,,
+15,S8_corrected_only,Uganda,6,0,0.0,,
+15,S8_corrected_only,United Arab Emirates,6,0,0.0,,
+15,S8_corrected_only,Uruguay,6,0,0.0,,
+15,S8_corrected_only,Venezuela,6,0,0.0,,
+15,S8_corrected_only,Vietnam,6,0,0.0,,
+15,S8_corrected_only,Yemen,6,0,0.0,,
+15,S8_corrected_only,Zambia,6,0,0.0,,
+15,S8_corrected_only,Zimbabwe,6,0,0.0,,
+15,all_42,Thailand,42,40,0.9523809523809523,4.375,3.0
+15,all_42,Pakistan,42,35,0.8333333333333334,8.914285714285715,10.0
+15,all_42,Taiwan,42,32,0.7619047619047619,4.71875,4.0
+15,all_42,Poland,42,32,0.7619047619047619,9.46875,10.5
+15,all_42,France,42,29,0.6904761904761905,7.448275862068965,8.0
+15,all_42,Italy,42,27,0.6428571428571429,7.296296296296297,7.0
+15,all_42,Spain,42,27,0.6428571428571429,9.296296296296296,9.0
+15,all_42,Egypt,42,23,0.5476190476190477,4.304347826086956,2.0
+15,all_42,Germany,42,22,0.5238095238095238,4.590909090909091,2.0
+15,all_42,South Korea,42,22,0.5238095238095238,5.636363636363637,4.0
+15,all_42,Japan,42,21,0.5,4.857142857142857,4.0
+15,all_42,Greece,42,20,0.47619047619047616,7.0,6.0
+15,all_42,United Kingdom,42,20,0.47619047619047616,11.35,12.0
+15,all_42,Morocco,42,19,0.4523809523809524,8.578947368421053,8.0
+15,all_42,Chile,42,18,0.42857142857142855,9.0,11.0
+15,all_42,Ukraine,42,17,0.40476190476190477,7.0588235294117645,4.0
+15,all_42,Mexico,42,13,0.30952380952380953,8.692307692307692,9.0
+15,all_42,Philippines,42,13,0.30952380952380953,10.307692307692308,11.0
+15,all_42,Netherlands,42,13,0.30952380952380953,10.615384615384615,11.0
+15,all_42,Bangladesh,42,13,0.30952380952380953,13.23076923076923,13.0
+15,all_42,Vietnam,42,12,0.2857142857142857,7.916666666666667,7.0
+15,all_42,China,42,11,0.2619047619047619,7.454545454545454,6.0
+15,all_42,India,42,11,0.2619047619047619,9.090909090909092,10.0
+15,all_42,Iran,42,9,0.21428571428571427,8.11111111111111,7.0
+15,all_42,Israel,42,8,0.19047619047619047,6.375,6.0
+15,all_42,Algeria,42,8,0.19047619047619047,9.5,10.5
+15,all_42,Singapore,42,8,0.19047619047619047,13.0,14.0
+15,all_42,Jordan,42,7,0.16666666666666666,8.428571428571429,10.0
+15,all_42,Iraq,42,6,0.14285714285714285,5.333333333333333,5.0
+15,all_42,Venezuela,42,6,0.14285714285714285,7.5,7.0
+15,all_42,United States,42,6,0.14285714285714285,9.0,9.0
+15,all_42,Finland,42,5,0.11904761904761904,8.0,6.0
+15,all_42,Argentina,42,4,0.09523809523809523,12.5,12.5
+15,all_42,Nigeria,42,4,0.09523809523809523,12.75,13.0
+15,all_42,Belgium,42,4,0.09523809523809523,13.75,14.0
+15,all_42,Denmark,42,3,0.07142857142857142,2.3333333333333335,2.0
+15,all_42,Nepal,42,3,0.07142857142857142,2.6666666666666665,2.0
+15,all_42,Kenya,42,3,0.07142857142857142,5.666666666666667,6.0
+15,all_42,Dominican Republic,42,3,0.07142857142857142,8.333333333333334,8.0
+15,all_42,Belarus,42,3,0.07142857142857142,9.666666666666666,7.0
+15,all_42,Brazil,42,3,0.07142857142857142,11.0,9.0
+15,all_42,Russia,42,3,0.07142857142857142,11.333333333333334,12.0
+15,all_42,Democratic Republic of the Congo,42,3,0.07142857142857142,11.666666666666666,11.0
+15,all_42,Guatemala,42,3,0.07142857142857142,11.666666666666666,12.0
+15,all_42,Hungary,42,3,0.07142857142857142,12.333333333333334,12.0
+15,all_42,Ethiopia,42,3,0.07142857142857142,13.666666666666666,14.0
+15,all_42,Saudi Arabia,42,2,0.047619047619047616,8.0,8.0
+15,all_42,Peru,42,2,0.047619047619047616,9.0,9.0
+15,all_42,Malaysia,42,2,0.047619047619047616,10.0,10.0
+15,all_42,Kyrgyzstan,42,2,0.047619047619047616,11.5,11.5
+15,all_42,North Korea,42,2,0.047619047619047616,11.5,11.5
+15,all_42,Angola,42,2,0.047619047619047616,13.0,13.0
+15,all_42,Czechia,42,2,0.047619047619047616,13.5,13.5
+15,all_42,Sri Lanka,42,2,0.047619047619047616,14.5,14.5
+15,all_42,Bulgaria,42,1,0.023809523809523808,6.0,6.0
+15,all_42,Mauritania,42,1,0.023809523809523808,8.0,8.0
+15,all_42,Tunisia,42,1,0.023809523809523808,9.0,9.0
+15,all_42,Laos,42,1,0.023809523809523808,10.0,10.0
+15,all_42,Slovenia,42,1,0.023809523809523808,10.0,10.0
+15,all_42,Georgia,42,1,0.023809523809523808,11.0,11.0
+15,all_42,Senegal,42,1,0.023809523809523808,12.0,12.0
+15,all_42,Azerbaijan,42,1,0.023809523809523808,13.0,13.0
+15,all_42,Lebanon,42,1,0.023809523809523808,13.0,13.0
+15,all_42,Myanmar,42,1,0.023809523809523808,13.0,13.0
+15,all_42,Tajikistan,42,1,0.023809523809523808,13.0,13.0
+15,all_42,Benin,42,1,0.023809523809523808,14.0,14.0
+15,all_42,Croatia,42,1,0.023809523809523808,14.0,14.0
+15,all_42,Serbia,42,1,0.023809523809523808,14.0,14.0
+15,all_42,Latvia,42,1,0.023809523809523808,15.0,15.0
+15,all_42,Uzbekistan,42,1,0.023809523809523808,15.0,15.0
+15,all_42,Afghanistan,42,0,0.0,,
+15,all_42,Albania,42,0,0.0,,
+15,all_42,Armenia,42,0,0.0,,
+15,all_42,Australia,42,0,0.0,,
+15,all_42,Austria,42,0,0.0,,
+15,all_42,Bahrain,42,0,0.0,,
+15,all_42,Beliz,42,0,0.0,,
+15,all_42,Bhutan,42,0,0.0,,
+15,all_42,Bolivia,42,0,0.0,,
+15,all_42,Bosnia and Herzegovina,42,0,0.0,,
+15,all_42,Botswana,42,0,0.0,,
+15,all_42,Burkina Faso,42,0,0.0,,
+15,all_42,Cambodia,42,0,0.0,,
+15,all_42,Cameroon,42,0,0.0,,
+15,all_42,Canada,42,0,0.0,,
+15,all_42,Central African Republic,42,0,0.0,,
+15,all_42,Chad,42,0,0.0,,
+15,all_42,Colombia,42,0,0.0,,
+15,all_42,Cuba,42,0,0.0,,
+15,all_42,Ecuador,42,0,0.0,,
+15,all_42,El Salvador,42,0,0.0,,
+15,all_42,Eritrea,42,0,0.0,,
+15,all_42,Estonia,42,0,0.0,,
+15,all_42,Gabon,42,0,0.0,,
+15,all_42,Ghana,42,0,0.0,,
+15,all_42,Honduras,42,0,0.0,,
+15,all_42,Iceland,42,0,0.0,,
+15,all_42,Indonesia,42,0,0.0,,
+15,all_42,Ireland,42,0,0.0,,
+15,all_42,Ivory Coast,42,0,0.0,,
+15,all_42,Kazakhstan,42,0,0.0,,
+15,all_42,Kosovo,42,0,0.0,,
+15,all_42,Kuwait,42,0,0.0,,
+15,all_42,Liberia,42,0,0.0,,
+15,all_42,Libya,42,0,0.0,,
+15,all_42,Luxembourg,42,0,0.0,,
+15,all_42,Madagascar,42,0,0.0,,
+15,all_42,Mali,42,0,0.0,,
+15,all_42,Moldova,42,0,0.0,,
+15,all_42,Mongolia,42,0,0.0,,
+15,all_42,Montenegro,42,0,0.0,,
+15,all_42,Mozambique,42,0,0.0,,
+15,all_42,Namibia,42,0,0.0,,
+15,all_42,New Zealand,42,0,0.0,,
+15,all_42,Nicaragua,42,0,0.0,,
+15,all_42,Niger,42,0,0.0,,
+15,all_42,Norway,42,0,0.0,,
+15,all_42,Oman,42,0,0.0,,
+15,all_42,Panama,42,0,0.0,,
+15,all_42,Paraguay,42,0,0.0,,
+15,all_42,Portugal,42,0,0.0,,
+15,all_42,Qatar,42,0,0.0,,
+15,all_42,Republic of the Congo,42,0,0.0,,
+15,all_42,Romania,42,0,0.0,,
+15,all_42,Sierra Leone,42,0,0.0,,
+15,all_42,Slovakia,42,0,0.0,,
+15,all_42,Somalia,42,0,0.0,,
+15,all_42,South Africa,42,0,0.0,,
+15,all_42,South Sudan,42,0,0.0,,
+15,all_42,Sudan,42,0,0.0,,
+15,all_42,Suriname,42,0,0.0,,
+15,all_42,Sweden,42,0,0.0,,
+15,all_42,Switzerland,42,0,0.0,,
+15,all_42,Syria,42,0,0.0,,
+15,all_42,Tanzania,42,0,0.0,,
+15,all_42,Turkmenistan,42,0,0.0,,
+15,all_42,Uganda,42,0,0.0,,
+15,all_42,United Arab Emirates,42,0,0.0,,
+15,all_42,Uruguay,42,0,0.0,,
+15,all_42,Yemen,42,0,0.0,,
+15,all_42,Zambia,42,0,0.0,,
+15,all_42,Zimbabwe,42,0,0.0,,
+15,other_six_scenarios,Thailand,36,34,0.9444444444444444,4.4411764705882355,2.5
+15,other_six_scenarios,Pakistan,36,33,0.9166666666666666,8.757575757575758,10.0
+15,other_six_scenarios,Taiwan,36,31,0.8611111111111112,4.548387096774194,4.0
+15,other_six_scenarios,Poland,36,29,0.8055555555555556,9.275862068965518,10.0
+15,other_six_scenarios,France,36,25,0.6944444444444444,6.72,6.0
+15,other_six_scenarios,Germany,36,22,0.6111111111111112,4.590909090909091,2.0
+15,other_six_scenarios,Italy,36,22,0.6111111111111112,7.409090909090909,7.0
+15,other_six_scenarios,Spain,36,22,0.6111111111111112,9.409090909090908,9.0
+15,other_six_scenarios,South Korea,36,18,0.5,4.666666666666667,3.5
+15,other_six_scenarios,Greece,36,18,0.5,6.555555555555555,5.0
+15,other_six_scenarios,Egypt,36,17,0.4722222222222222,5.352941176470588,4.0
+15,other_six_scenarios,Chile,36,17,0.4722222222222222,8.764705882352942,11.0
+15,other_six_scenarios,United Kingdom,36,17,0.4722222222222222,11.235294117647058,12.0
+15,other_six_scenarios,Japan,36,16,0.4444444444444444,4.1875,3.0
+15,other_six_scenarios,Morocco,36,15,0.4166666666666667,8.133333333333333,8.0
+15,other_six_scenarios,Mexico,36,13,0.3611111111111111,8.692307692307692,9.0
+15,other_six_scenarios,Philippines,36,13,0.3611111111111111,10.307692307692308,11.0
+15,other_six_scenarios,Netherlands,36,13,0.3611111111111111,10.615384615384615,11.0
+15,other_six_scenarios,Vietnam,36,12,0.3333333333333333,7.916666666666667,7.0
+15,other_six_scenarios,Bangladesh,36,12,0.3333333333333333,13.333333333333334,13.0
+15,other_six_scenarios,Ukraine,36,11,0.3055555555555556,9.454545454545455,12.0
+15,other_six_scenarios,China,36,9,0.25,7.333333333333333,6.0
+15,other_six_scenarios,Israel,36,8,0.2222222222222222,6.375,6.0
+15,other_six_scenarios,India,36,8,0.2222222222222222,10.625,12.0
+15,other_six_scenarios,Singapore,36,8,0.2222222222222222,13.0,14.0
+15,other_six_scenarios,Jordan,36,7,0.19444444444444445,8.428571428571429,10.0
+15,other_six_scenarios,Iran,36,6,0.16666666666666666,6.0,6.0
+15,other_six_scenarios,Venezuela,36,6,0.16666666666666666,7.5,7.0
+15,other_six_scenarios,Finland,36,5,0.1388888888888889,8.0,6.0
+15,other_six_scenarios,United States,36,4,0.1111111111111111,10.25,10.0
+15,other_six_scenarios,Argentina,36,4,0.1111111111111111,12.5,12.5
+15,other_six_scenarios,Belgium,36,4,0.1111111111111111,13.75,14.0
+15,other_six_scenarios,Denmark,36,3,0.08333333333333333,2.3333333333333335,2.0
+15,other_six_scenarios,Nepal,36,3,0.08333333333333333,2.6666666666666665,2.0
+15,other_six_scenarios,Kenya,36,3,0.08333333333333333,5.666666666666667,6.0
+15,other_six_scenarios,Dominican Republic,36,3,0.08333333333333333,8.333333333333334,8.0
+15,other_six_scenarios,Belarus,36,3,0.08333333333333333,9.666666666666666,7.0
+15,other_six_scenarios,Brazil,36,3,0.08333333333333333,11.0,9.0
+15,other_six_scenarios,Algeria,36,3,0.08333333333333333,11.666666666666666,13.0
+15,other_six_scenarios,Democratic Republic of the Congo,36,3,0.08333333333333333,11.666666666666666,11.0
+15,other_six_scenarios,Guatemala,36,3,0.08333333333333333,11.666666666666666,12.0
+15,other_six_scenarios,Hungary,36,3,0.08333333333333333,12.333333333333334,12.0
+15,other_six_scenarios,Ethiopia,36,3,0.08333333333333333,13.666666666666666,14.0
+15,other_six_scenarios,Malaysia,36,2,0.05555555555555555,10.0,10.0
+15,other_six_scenarios,Kyrgyzstan,36,2,0.05555555555555555,11.5,11.5
+15,other_six_scenarios,North Korea,36,2,0.05555555555555555,11.5,11.5
+15,other_six_scenarios,Czechia,36,2,0.05555555555555555,13.5,13.5
+15,other_six_scenarios,Sri Lanka,36,2,0.05555555555555555,14.5,14.5
+15,other_six_scenarios,Bulgaria,36,1,0.027777777777777776,6.0,6.0
+15,other_six_scenarios,Peru,36,1,0.027777777777777776,6.0,6.0
+15,other_six_scenarios,Mauritania,36,1,0.027777777777777776,8.0,8.0
+15,other_six_scenarios,Tunisia,36,1,0.027777777777777776,9.0,9.0
+15,other_six_scenarios,Laos,36,1,0.027777777777777776,10.0,10.0
+15,other_six_scenarios,Slovenia,36,1,0.027777777777777776,10.0,10.0
+15,other_six_scenarios,Georgia,36,1,0.027777777777777776,11.0,11.0
+15,other_six_scenarios,Senegal,36,1,0.027777777777777776,12.0,12.0
+15,other_six_scenarios,Azerbaijan,36,1,0.027777777777777776,13.0,13.0
+15,other_six_scenarios,Lebanon,36,1,0.027777777777777776,13.0,13.0
+15,other_six_scenarios,Myanmar,36,1,0.027777777777777776,13.0,13.0
+15,other_six_scenarios,Russia,36,1,0.027777777777777776,13.0,13.0
+15,other_six_scenarios,Tajikistan,36,1,0.027777777777777776,13.0,13.0
+15,other_six_scenarios,Benin,36,1,0.027777777777777776,14.0,14.0
+15,other_six_scenarios,Croatia,36,1,0.027777777777777776,14.0,14.0
+15,other_six_scenarios,Serbia,36,1,0.027777777777777776,14.0,14.0
+15,other_six_scenarios,Angola,36,1,0.027777777777777776,15.0,15.0
+15,other_six_scenarios,Latvia,36,1,0.027777777777777776,15.0,15.0
+15,other_six_scenarios,Afghanistan,36,0,0.0,,
+15,other_six_scenarios,Albania,36,0,0.0,,
+15,other_six_scenarios,Armenia,36,0,0.0,,
+15,other_six_scenarios,Australia,36,0,0.0,,
+15,other_six_scenarios,Austria,36,0,0.0,,
+15,other_six_scenarios,Bahrain,36,0,0.0,,
+15,other_six_scenarios,Beliz,36,0,0.0,,
+15,other_six_scenarios,Bhutan,36,0,0.0,,
+15,other_six_scenarios,Bolivia,36,0,0.0,,
+15,other_six_scenarios,Bosnia and Herzegovina,36,0,0.0,,
+15,other_six_scenarios,Botswana,36,0,0.0,,
+15,other_six_scenarios,Burkina Faso,36,0,0.0,,
+15,other_six_scenarios,Cambodia,36,0,0.0,,
+15,other_six_scenarios,Cameroon,36,0,0.0,,
+15,other_six_scenarios,Canada,36,0,0.0,,
+15,other_six_scenarios,Central African Republic,36,0,0.0,,
+15,other_six_scenarios,Chad,36,0,0.0,,
+15,other_six_scenarios,Colombia,36,0,0.0,,
+15,other_six_scenarios,Cuba,36,0,0.0,,
+15,other_six_scenarios,Ecuador,36,0,0.0,,
+15,other_six_scenarios,El Salvador,36,0,0.0,,
+15,other_six_scenarios,Eritrea,36,0,0.0,,
+15,other_six_scenarios,Estonia,36,0,0.0,,
+15,other_six_scenarios,Gabon,36,0,0.0,,
+15,other_six_scenarios,Ghana,36,0,0.0,,
+15,other_six_scenarios,Honduras,36,0,0.0,,
+15,other_six_scenarios,Iceland,36,0,0.0,,
+15,other_six_scenarios,Indonesia,36,0,0.0,,
+15,other_six_scenarios,Iraq,36,0,0.0,,
+15,other_six_scenarios,Ireland,36,0,0.0,,
+15,other_six_scenarios,Ivory Coast,36,0,0.0,,
+15,other_six_scenarios,Kazakhstan,36,0,0.0,,
+15,other_six_scenarios,Kosovo,36,0,0.0,,
+15,other_six_scenarios,Kuwait,36,0,0.0,,
+15,other_six_scenarios,Liberia,36,0,0.0,,
+15,other_six_scenarios,Libya,36,0,0.0,,
+15,other_six_scenarios,Luxembourg,36,0,0.0,,
+15,other_six_scenarios,Madagascar,36,0,0.0,,
+15,other_six_scenarios,Mali,36,0,0.0,,
+15,other_six_scenarios,Moldova,36,0,0.0,,
+15,other_six_scenarios,Mongolia,36,0,0.0,,
+15,other_six_scenarios,Montenegro,36,0,0.0,,
+15,other_six_scenarios,Mozambique,36,0,0.0,,
+15,other_six_scenarios,Namibia,36,0,0.0,,
+15,other_six_scenarios,New Zealand,36,0,0.0,,
+15,other_six_scenarios,Nicaragua,36,0,0.0,,
+15,other_six_scenarios,Niger,36,0,0.0,,
+15,other_six_scenarios,Nigeria,36,0,0.0,,
+15,other_six_scenarios,Norway,36,0,0.0,,
+15,other_six_scenarios,Oman,36,0,0.0,,
+15,other_six_scenarios,Panama,36,0,0.0,,
+15,other_six_scenarios,Paraguay,36,0,0.0,,
+15,other_six_scenarios,Portugal,36,0,0.0,,
+15,other_six_scenarios,Qatar,36,0,0.0,,
+15,other_six_scenarios,Republic of the Congo,36,0,0.0,,
+15,other_six_scenarios,Romania,36,0,0.0,,
+15,other_six_scenarios,Saudi Arabia,36,0,0.0,,
+15,other_six_scenarios,Sierra Leone,36,0,0.0,,
+15,other_six_scenarios,Slovakia,36,0,0.0,,
+15,other_six_scenarios,Somalia,36,0,0.0,,
+15,other_six_scenarios,South Africa,36,0,0.0,,
+15,other_six_scenarios,South Sudan,36,0,0.0,,
+15,other_six_scenarios,Sudan,36,0,0.0,,
+15,other_six_scenarios,Suriname,36,0,0.0,,
+15,other_six_scenarios,Sweden,36,0,0.0,,
+15,other_six_scenarios,Switzerland,36,0,0.0,,
+15,other_six_scenarios,Syria,36,0,0.0,,
+15,other_six_scenarios,Tanzania,36,0,0.0,,
+15,other_six_scenarios,Turkmenistan,36,0,0.0,,
+15,other_six_scenarios,Uganda,36,0,0.0,,
+15,other_six_scenarios,United Arab Emirates,36,0,0.0,,
+15,other_six_scenarios,Uruguay,36,0,0.0,,
+15,other_six_scenarios,Uzbekistan,36,0,0.0,,
+15,other_six_scenarios,Yemen,36,0,0.0,,
+15,other_six_scenarios,Zambia,36,0,0.0,,
+15,other_six_scenarios,Zimbabwe,36,0,0.0,,

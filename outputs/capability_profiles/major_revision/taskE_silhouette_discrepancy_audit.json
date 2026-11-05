@@ -1,0 +1,6 @@
+{
+  "canonical_k3_silhouette": 0.46091879935938634,
+  "threshold_table_value": 0.4609187993593863,
+  "corrected_k_comparison_value": 0.4609187993593863,
+  "explanation": "Both reproducible outputs equal 0.460919. A manuscript value of 0.4602 is a stale transcription/rounding error, not a seed, subset, or preprocessing difference; replace it with 0.4609."
+}

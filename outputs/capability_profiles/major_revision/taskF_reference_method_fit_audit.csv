@@ -1,0 +1,4 @@
+﻿reference,current_use,assessment,action,recommended_reference
+MacKinnon & Webb (2017),bootstrap/cluster-size support,inappropriate for unsupervised cluster-discovery stability; concerns wild cluster bootstrap inference for regression errors,replace for resampling-stability claim,"Hennig (2007), Cluster-wise assessment of cluster stability, doi:10.1016/j.csda.2006.11.025"
+"Kim, Lee & Kang (2018)",multiple internal validity indices,"appropriate for multi-index cluster validation, but not evidence for bootstrap stability",retain only with internal-validity statement,doi:10.1016/j.asoc.2017.11.052
+Hardin & Rocke (2005),Mahalanobis/robust-distance outlier diagnostics,methodologically appropriate for robust-distance diagnostics,retain; avoid implying that RobustScaler itself removes outliers,doi:10.1198/106186005X77685

@@ -1,0 +1,11 @@
+﻿neighbor_type,country,family_presence_frequency,mean_family_rank,stability_level
+full_balanced_pipeline,Thailand,0.8809523809523809,3.6216216216216215,HIGH
+full_balanced_pipeline,Taiwan,0.7380952380952381,4.516129032258065,HIGH
+full_balanced_pipeline,Pakistan,0.6904761904761905,8.206896551724139,HIGH
+full_balanced_pipeline,Italy,0.5238095238095238,5.909090909090909,MODERATE
+full_balanced_pipeline,France,0.5,5.619047619047619,MODERATE
+full_balanced_pipeline,Egypt,0.4761904761904761,2.9,MODERATE
+full_balanced_pipeline,Germany,0.4523809523809524,3.210526315789474,MODERATE
+full_balanced_pipeline,Japan,0.4523809523809524,4.0,MODERATE
+full_balanced_pipeline,South Korea,0.4285714285714285,4.0,MODERATE
+full_balanced_pipeline,Spain,0.4047619047619047,7.176470588235294,MODERATE

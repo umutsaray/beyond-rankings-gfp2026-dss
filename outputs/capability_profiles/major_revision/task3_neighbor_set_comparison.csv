@@ -1,0 +1,19 @@
+﻿country,in_GFP_rank_top10,in_full_pipeline_top10,in_simple_domain_euclidean_top10,rank_vs_profile_status,complex_vs_simple_status
+Algeria,False,False,True,baseline_only,simple_only
+Brazil,True,False,False,rank_only,neither
+Egypt,False,True,True,profile_only,overlap
+France,True,True,False,overlap,complex_only
+Germany,True,True,False,overlap,complex_only
+India,True,False,False,rank_only,neither
+Indonesia,True,False,False,rank_only,neither
+Iran,False,False,True,baseline_only,simple_only
+Italy,True,True,True,overlap,overlap
+Japan,True,True,True,overlap,overlap
+Pakistan,True,True,True,overlap,overlap
+Saudi Arabia,False,False,True,baseline_only,simple_only
+South Korea,True,True,True,overlap,overlap
+Spain,False,True,False,profile_only,complex_only
+Taiwan,False,True,False,profile_only,complex_only
+Thailand,False,True,True,profile_only,overlap
+Ukraine,False,False,True,baseline_only,simple_only
+United Kingdom,True,False,False,rank_only,neither

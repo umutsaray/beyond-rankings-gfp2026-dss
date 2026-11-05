@@ -1,0 +1,7 @@
+{
+  "implementation": "scipy.optimize.linear_sum_assignment",
+  "objective": "maximize overlap with the full-sample reference labels by minimizing the negative contingency matrix",
+  "alignment_scope": "each bootstrap iteration is aligned to the full-sample k=3 reference partition before country-level recurrence is calculated",
+  "turkiye_membership_stability": 1.0,
+  "interpretation": "Türkiye remained in the reference-matched cluster in all 500 corrected bootstrap iterations; the value is not based on raw, permutation-sensitive cluster numbers."
+}

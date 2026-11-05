@@ -1,0 +1,15 @@
+pdfplumber
+pymupdf
+pandas
+openpyxl
+matplotlib
+seaborn
+numpy
+regex
+scipy
+xgboost
+lightgbm
+catboost
+shap
+scikit-learn
+umap-learn

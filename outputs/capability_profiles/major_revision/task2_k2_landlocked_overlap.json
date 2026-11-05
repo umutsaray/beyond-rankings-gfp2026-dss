@@ -1,0 +1,49 @@
+{
+  "k2_cluster_sizes": [
+    31,
+    112
+  ],
+  "k3_cluster_sizes": [
+    31,
+    55,
+    57
+  ],
+  "k2_small_vs_k3_31_jaccard": 1.0,
+  "k2_vs_k3_overall_ARI": 0.4361750401603427,
+  "k2_vs_naval_presence_ARI": 1.0,
+  "k3_vs_naval_presence_ARI": 0.4361750401603427,
+  "same_31_countries": true,
+  "countries_in_shared_31_group": [
+    "Afghanistan",
+    "Armenia",
+    "Austria",
+    "Belarus",
+    "Bhutan",
+    "Bolivia",
+    "Botswana",
+    "Burkina Faso",
+    "Central African Republic",
+    "Chad",
+    "Czechia",
+    "Ethiopia",
+    "Hungary",
+    "Kosovo",
+    "Kyrgyzstan",
+    "Laos",
+    "Luxembourg",
+    "Mali",
+    "Moldova",
+    "Mongolia",
+    "Nepal",
+    "Niger",
+    "Paraguay",
+    "Serbia",
+    "Slovakia",
+    "South Sudan",
+    "Switzerland",
+    "Tajikistan",
+    "Uganda",
+    "Zambia",
+    "Zimbabwe"
+  ]
+}

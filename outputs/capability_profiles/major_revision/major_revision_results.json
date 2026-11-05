@@ -1,0 +1,328 @@
+{
+  "task1": {
+    "official_country_count": 145,
+    "analysis_country_count": 143,
+    "missing_countries": [
+      "Lithuania",
+      "North Macedonia"
+    ],
+    "variable_dictionary_rows": 76
+  },
+  "task2": {
+    "eta_squared": 0.6548217399327382,
+    "naval_variance_share_robust_PCA_input": 0.439244172701782,
+    "naval_variance_share_unit_variance_input": 0.125,
+    "naval_PC1_coefficient_robust_scaled": 0.7456769307969393,
+    "naval_PC1_coefficient_unit_variance": 0.22671795975310316,
+    "no_naval_k3": {
+      "representation": "7_domain_no_naval_robust_PCA90",
+      "k": 3,
+      "retained_dimensions": 4,
+      "cluster_sizes": "41|45|57",
+      "silhouette": 0.28007717063192156,
+      "calinski_harabasz": 114.57009342543039,
+      "davies_bouldin": 1.165812471484193,
+      "ARI_vs_original_k3": 0.3334595207268394,
+      "AMI_vs_original_k3": 0.4157858634060896,
+      "NMI_vs_original_k3": 0.4235377570638139,
+      "cumulative_variance_at_PCA90": 0.9371013584445641
+    },
+    "unit_variance_k3": {
+      "representation": "8_domain_unit_variance_PCA90",
+      "k": 3,
+      "retained_dimensions": 4,
+      "cluster_sizes": "31|52|60",
+      "silhouette": 0.35606989342167455,
+      "calinski_harabasz": 101.6438212205576,
+      "davies_bouldin": 1.103980188131378,
+      "ARI_vs_original_k3": 0.9292145905531911,
+      "AMI_vs_original_k3": 0.9215891805283161,
+      "NMI_vs_original_k3": 0.9226437254896525,
+      "cumulative_variance_at_PCA90": 0.9082397379215643
+    },
+    "k2_overlap": {
+      "k2_cluster_sizes": [
+        31,
+        112
+      ],
+      "k3_cluster_sizes": [
+        31,
+        55,
+        57
+      ],
+      "k2_small_vs_k3_31_jaccard": 1.0,
+      "k2_vs_k3_overall_ARI": 0.4361750401603427,
+      "k2_vs_naval_presence_ARI": 1.0,
+      "k3_vs_naval_presence_ARI": 0.4361750401603427,
+      "same_31_countries": true,
+      "countries_in_shared_31_group": [
+        "Afghanistan",
+        "Armenia",
+        "Austria",
+        "Belarus",
+        "Bhutan",
+        "Bolivia",
+        "Botswana",
+        "Burkina Faso",
+        "Central African Republic",
+        "Chad",
+        "Czechia",
+        "Ethiopia",
+        "Hungary",
+        "Kosovo",
+        "Kyrgyzstan",
+        "Laos",
+        "Luxembourg",
+        "Mali",
+        "Moldova",
+        "Mongolia",
+        "Nepal",
+        "Niger",
+        "Paraguay",
+        "Serbia",
+        "Slovakia",
+        "South Sudan",
+        "Switzerland",
+        "Tajikistan",
+        "Uganda",
+        "Zambia",
+        "Zimbabwe"
+      ]
+    },
+    "outlier_summary": [
+      {
+        "stage": "after_RobustScaler",
+        "flagged_countries": 3,
+        "max_mahalanobis_d2": 43.86914886043576,
+        "mean_mahalanobis_d2": 8.000000000000002
+      },
+      {
+        "stage": "before_RobustScaler",
+        "flagged_countries": 3,
+        "max_mahalanobis_d2": 43.86914886043572,
+        "mean_mahalanobis_d2": 8.0
+      }
+    ],
+    "key_peer_retention": [
+      {
+        "country": "Thailand",
+        "metrics_in_top10": 3,
+        "retention_rate_across_3_metrics": 1.0,
+        "mean_rank_when_present": 4.333333333333333,
+        "representation": "7_domain_no_naval_PCA90"
+      },
+      {
+        "country": "Taiwan",
+        "metrics_in_top10": 0,
+        "retention_rate_across_3_metrics": 0.0,
+        "mean_rank_when_present": null,
+        "representation": "7_domain_no_naval_PCA90"
+      },
+      {
+        "country": "Pakistan",
+        "metrics_in_top10": 3,
+        "retention_rate_across_3_metrics": 1.0,
+        "mean_rank_when_present": 6.0,
+        "representation": "7_domain_no_naval_PCA90"
+      },
+      {
+        "country": "Thailand",
+        "metrics_in_top10": 3,
+        "retention_rate_across_3_metrics": 1.0,
+        "mean_rank_when_present": 6.0,
+        "representation": "8_domain_unit_variance_PCA90"
+      },
+      {
+        "country": "Taiwan",
+        "metrics_in_top10": 0,
+        "retention_rate_across_3_metrics": 0.0,
+        "mean_rank_when_present": null,
+        "representation": "8_domain_unit_variance_PCA90"
+      },
+      {
+        "country": "Pakistan",
+        "metrics_in_top10": 3,
+        "retention_rate_across_3_metrics": 1.0,
+        "mean_rank_when_present": 7.666666666666667,
+        "representation": "8_domain_unit_variance_PCA90"
+      }
+    ]
+  },
+  "task3": {
+    "rank_top10": [
+      "United Kingdom",
+      "Italy",
+      "Japan",
+      "Brazil",
+      "France",
+      "Germany",
+      "South Korea",
+      "Indonesia",
+      "India",
+      "Pakistan"
+    ],
+    "profile_top10": [
+      "Thailand",
+      "Taiwan",
+      "Pakistan",
+      "Italy",
+      "France",
+      "Egypt",
+      "Germany",
+      "Japan",
+      "South Korea",
+      "Spain"
+    ],
+    "simple_baseline_top10": [
+      "Egypt",
+      "Pakistan",
+      "Iran",
+      "Ukraine",
+      "Saudi Arabia",
+      "Algeria",
+      "South Korea",
+      "Thailand",
+      "Italy",
+      "Japan"
+    ],
+    "rank_profile_overlap_count": 6,
+    "complex_simple_overlap_count": 6
+  },
+  "taskA": {
+    "clusterwise_jaccard": [
+      {
+        "reference_cluster": 1,
+        "reference_cluster_size": 57,
+        "mean": 0.8436857796460694,
+        "std": 0.20899569916594646,
+        "median": 0.9473684210526315,
+        "min": 0.2391304347826087,
+        "max": 1.0
+      },
+      {
+        "reference_cluster": 2,
+        "reference_cluster_size": 31,
+        "mean": 0.8595442557081224,
+        "std": 0.28955114914604413,
+        "median": 1.0,
+        "min": 0.0,
+        "max": 1.0
+      },
+      {
+        "reference_cluster": 3,
+        "reference_cluster_size": 55,
+        "mean": 0.9026724060260273,
+        "std": 0.0990573900881429,
+        "median": 0.9454545454545454,
+        "min": 0.4909090909090909,
+        "max": 1.0
+      }
+    ],
+    "oob_ARI": [
+      {
+        "metric": "ARI_oob",
+        "n": 500,
+        "mean": 0.8214866128762244,
+        "sd": 0.21965089019152076,
+        "q025": 0.28454314545942344,
+        "median": 0.930334767800157,
+        "q975": 1.0,
+        "min": 0.208635462759492,
+        "max": 1.0
+      }
+    ],
+    "most_unstable": [
+      {
+        "country": "Portugal",
+        "reference_cluster": 3,
+        "membership_stability": 0.42,
+        "switch_rate": 0.5800000000000001
+      },
+      {
+        "country": "Democratic Republic of the Congo",
+        "reference_cluster": 3,
+        "membership_stability": 0.526,
+        "switch_rate": 0.474
+      },
+      {
+        "country": "Sudan",
+        "reference_cluster": 3,
+        "membership_stability": 0.586,
+        "switch_rate": 0.41400000000000003
+      },
+      {
+        "country": "Netherlands",
+        "reference_cluster": 3,
+        "membership_stability": 0.646,
+        "switch_rate": 0.354
+      },
+      {
+        "country": "Sweden",
+        "reference_cluster": 3,
+        "membership_stability": 0.662,
+        "switch_rate": 0.33799999999999997
+      },
+      {
+        "country": "Ecuador",
+        "reference_cluster": 1,
+        "membership_stability": 0.696,
+        "switch_rate": 0.30400000000000005
+      },
+      {
+        "country": "Finland",
+        "reference_cluster": 3,
+        "membership_stability": 0.696,
+        "switch_rate": 0.30400000000000005
+      },
+      {
+        "country": "Azerbaijan",
+        "reference_cluster": 1,
+        "membership_stability": 0.724,
+        "switch_rate": 0.276
+      },
+      {
+        "country": "North Korea",
+        "reference_cluster": 3,
+        "membership_stability": 0.744,
+        "switch_rate": 0.256
+      },
+      {
+        "country": "Uzbekistan",
+        "reference_cluster": 3,
+        "membership_stability": 0.748,
+        "switch_rate": 0.252
+      }
+    ]
+  },
+  "taskB": {
+    "label_matching": "Hungarian algorithm via scipy.optimize.linear_sum_assignment on the negative contingency matrix",
+    "turkiye_membership_stability": 1.0
+  },
+  "taskC": {
+    "mean_rank_definition": "conditional on entering the selected top-N list; absent configurations do not enter the mean"
+  },
+  "taskD": {
+    "reverse_indicator_rule": "No blanket sign reversal is applied. Rank and PwrIndx fields are excluded. Deficit variables retain their source sign (negative deficits lower the natural-resources score).",
+    "within_group_PC1_sign_rule": "Multiply PC1 by +1 when the sum of its coefficients is nonnegative, otherwise by -1.",
+    "correlation_group_rule": "Undirected connected components at |Spearman rho| >= 0.90; transitive/chained links merge into one group.",
+    "bootstrap_component_count": "Fixed at 4, selected once from the full-sample PCA90 solution; PCA is refitted with n_components=4 in every bootstrap iteration, but the count is not reselected.",
+    "reported_table2_coefficients": "PCA eigenvector coefficients (sklearn pca.components_), not variable-component correlations.",
+    "sum_squared_coefficients_by_PC": {
+      "PC1": 1.0000000000000007,
+      "PC2": 1.0000000000000007,
+      "PC3": 0.9999999999999998,
+      "PC4": 0.9999999999999991,
+      "PC5": 1.0000000000000004,
+      "PC6": 1.0000000000000004,
+      "PC7": 1.000000000000001,
+      "PC8": 0.9999999999999998
+    },
+    "orthonormality_max_abs_error": 1.1102230246251565e-15
+  },
+  "taskE": {
+    "canonical_k3_silhouette": 0.46091879935938634,
+    "threshold_table_value": 0.4609187993593863,
+    "corrected_k_comparison_value": 0.4609187993593863,
+    "explanation": "Both reproducible outputs equal 0.460919. A manuscript value of 0.4602 is a stale transcription/rounding error, not a seed, subset, or preprocessing difference; replace it with 0.4609."
+  }
+}

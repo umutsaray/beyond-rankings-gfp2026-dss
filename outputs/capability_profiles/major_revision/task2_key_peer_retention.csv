@@ -1,0 +1,7 @@
+﻿country,metrics_in_top10,retention_rate_across_3_metrics,mean_rank_when_present,representation
+Thailand,3,1.0,4.333333333333333,7_domain_no_naval_PCA90
+Taiwan,0,0.0,,7_domain_no_naval_PCA90
+Pakistan,3,1.0,6.0,7_domain_no_naval_PCA90
+Thailand,3,1.0,6.0,8_domain_unit_variance_PCA90
+Taiwan,0,0.0,,8_domain_unit_variance_PCA90
+Pakistan,3,1.0,7.666666666666667,8_domain_unit_variance_PCA90

@@ -1,0 +1,18 @@
+{
+  "reverse_indicator_rule": "No blanket sign reversal is applied. Rank and PwrIndx fields are excluded. Deficit variables retain their source sign (negative deficits lower the natural-resources score).",
+  "within_group_PC1_sign_rule": "Multiply PC1 by +1 when the sum of its coefficients is nonnegative, otherwise by -1.",
+  "correlation_group_rule": "Undirected connected components at |Spearman rho| >= 0.90; transitive/chained links merge into one group.",
+  "bootstrap_component_count": "Fixed at 4, selected once from the full-sample PCA90 solution; PCA is refitted with n_components=4 in every bootstrap iteration, but the count is not reselected.",
+  "reported_table2_coefficients": "PCA eigenvector coefficients (sklearn pca.components_), not variable-component correlations.",
+  "sum_squared_coefficients_by_PC": {
+    "PC1": 1.0000000000000007,
+    "PC2": 1.0000000000000007,
+    "PC3": 0.9999999999999998,
+    "PC4": 0.9999999999999991,
+    "PC5": 1.0000000000000004,
+    "PC6": 1.0000000000000004,
+    "PC7": 1.000000000000001,
+    "PC8": 0.9999999999999998
+  },
+  "orthonormality_max_abs_error": 1.1102230246251565e-15
+}

@@ -1,0 +1,97 @@
+﻿country,membership_status,domain,absolute_standardized_difference,difference_rank
+Algeria,baseline_only,financial,0.7977213229905955,1
+Algeria,baseline_only,naval,0.6217883670171467,2
+Algeria,baseline_only,logistics,0.5969386228984341,3
+Algeria,baseline_only,manpower,0.47167972840814043,4
+Algeria,baseline_only,land,0.4602063733848256,5
+Algeria,baseline_only,geography,0.3643378726546038,6
+Algeria,baseline_only,natural_resources,0.29821176252136317,7
+Algeria,baseline_only,airpower,0.09902992762158891,8
+Brazil,rank_only,geography,1.509805071591476,1
+Brazil,rank_only,logistics,1.2568044994169825,2
+Brazil,rank_only,land,0.7622306454331828,3
+Brazil,rank_only,airpower,0.7123262629989141,4
+Brazil,rank_only,natural_resources,0.7008514748564568,5
+Brazil,rank_only,naval,0.4517979409463002,6
+Brazil,rank_only,manpower,0.3399055616767821,7
+Brazil,rank_only,financial,0.08764494215396024,8
+Egypt,profile_only,financial,0.5545971993416017,1
+Egypt,profile_only,logistics,0.41205377067801907,2
+Egypt,profile_only,natural_resources,0.3485679098505404,3
+Egypt,profile_only,naval,0.17714172833101294,4
+Egypt,profile_only,airpower,0.11531000528708057,5
+Egypt,profile_only,land,0.10367388837541092,6
+Egypt,profile_only,manpower,0.07318093895030975,7
+Egypt,profile_only,geography,0.01258708685129939,8
+India,rank_only,geography,1.125043298914198,1
+India,rank_only,logistics,1.1164544245473451,2
+India,rank_only,manpower,1.0760406586829139,3
+India,rank_only,airpower,0.7649822166404123,4
+India,rank_only,financial,0.5586308992056406,5
+India,rank_only,naval,0.1838114997772453,6
+India,rank_only,land,0.1282206579269496,7
+India,rank_only,natural_resources,0.10867809817497864,8
+Indonesia,rank_only,natural_resources,1.7588437903727563,1
+Indonesia,rank_only,logistics,0.8701401477462667,2
+Indonesia,rank_only,land,0.7416737776432092,3
+Indonesia,rank_only,geography,0.7109835307504743,4
+Indonesia,rank_only,naval,0.5764076797327107,5
+Indonesia,rank_only,airpower,0.44054372989477875,6
+Indonesia,rank_only,manpower,0.16941335755629083,7
+Indonesia,rank_only,financial,0.10774438860547364,8
+Iran,baseline_only,natural_resources,0.882521942140405,1
+Iran,baseline_only,naval,0.7515046942608958,2
+Iran,baseline_only,financial,0.7317532565868563,3
+Iran,baseline_only,airpower,0.3129040642987113,4
+Iran,baseline_only,geography,0.2732516117924887,5
+Iran,baseline_only,land,0.13675648779317373,6
+Iran,baseline_only,manpower,0.033672252095257704,7
+Iran,baseline_only,logistics,0.023445541861527475,8
+Saudi Arabia,baseline_only,natural_resources,1.0186220548738065,1
+Saudi Arabia,baseline_only,manpower,0.8081146448849225,2
+Saudi Arabia,baseline_only,naval,0.49418010267277795,3
+Saudi Arabia,baseline_only,geography,0.4455179005346914,4
+Saudi Arabia,baseline_only,land,0.37815345571848047,5
+Saudi Arabia,baseline_only,airpower,0.26942252699312896,6
+Saudi Arabia,baseline_only,financial,0.17577137669155674,7
+Saudi Arabia,baseline_only,logistics,0.17008230892494236,8
+Spain,profile_only,land,1.1901797825866751,1
+Spain,profile_only,manpower,0.700174055712118,2
+Spain,profile_only,airpower,0.6752464293632993,3
+Spain,profile_only,geography,0.2838409338703979,4
+Spain,profile_only,logistics,0.24762358308468357,5
+Spain,profile_only,financial,0.22345550298483263,6
+Spain,profile_only,natural_resources,0.08626900538742355,7
+Spain,profile_only,naval,0.04905639876195389,8
+Taiwan,profile_only,geography,1.5263107944095868,1
+Taiwan,profile_only,naval,0.9227118131167246,2
+Taiwan,profile_only,logistics,0.6353568713677904,3
+Taiwan,profile_only,airpower,0.6177693500150113,4
+Taiwan,profile_only,manpower,0.4156795655722424,5
+Taiwan,profile_only,natural_resources,0.31760333000963287,6
+Taiwan,profile_only,land,0.29667158555737627,7
+Taiwan,profile_only,financial,0.052984130936349905,8
+Thailand,profile_only,land,0.7777221940026823,1
+Thailand,profile_only,airpower,0.5948919406031219,2
+Thailand,profile_only,financial,0.4996144583324311,3
+Thailand,profile_only,natural_resources,0.24097945282656386,4
+Thailand,profile_only,manpower,0.23280094155628617,5
+Thailand,profile_only,geography,0.19673230590067636,6
+Thailand,profile_only,logistics,0.05147137860076312,7
+Thailand,profile_only,naval,0.031043356063435334,8
+Ukraine,baseline_only,airpower,0.777137477777564,1
+Ukraine,baseline_only,financial,0.4901411271513598,2
+Ukraine,baseline_only,land,0.21764137527150784,3
+Ukraine,baseline_only,natural_resources,0.19700918528666067,4
+Ukraine,baseline_only,naval,0.13522490660201436,5
+Ukraine,baseline_only,manpower,0.1345581316659381,6
+Ukraine,baseline_only,geography,0.12296535751855697,7
+Ukraine,baseline_only,logistics,0.08632138309867665,8
+United Kingdom,rank_only,land,0.9774656863600729,1
+United Kingdom,rank_only,manpower,0.9018565897053352,2
+United Kingdom,rank_only,logistics,0.834464557432165,3
+United Kingdom,rank_only,geography,0.7184320538276758,4
+United Kingdom,rank_only,financial,0.6132697219324617,5
+United Kingdom,rank_only,natural_resources,0.19043585606582125,6
+United Kingdom,rank_only,naval,0.05800633953560497,7
+United Kingdom,rank_only,airpower,0.01848483613332319,8

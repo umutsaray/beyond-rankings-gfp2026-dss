@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments and local configuration
+.venv/
+venv/
+env/
+.env
+.env.*
+.idea/
+.vscode/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+*.bak
+
+# GFP source material: do not redistribute
+gfp_pdfs/
+data/raw/
+*.pdf
+
+# Direct/raw/cleaned GFP tables and local extraction artifacts
+outputs/tables/
+outputs/reports/
+outputs/figures/
+outputs/article_report/
+
+# Capability-profile outputs are local by default; publish only the reviewed package
+outputs/capability_profiles/*
+!outputs/capability_profiles/major_revision/
+!outputs/capability_profiles/major_revision/**
+
+# Manuscripts, archives, and local rendering assets
+*.docx
+*.xlsx
+*.zip
+.mplconfig*/
+publication/
+

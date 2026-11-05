@@ -1,0 +1,3 @@
+﻿official_rank,country_official,present_in_pdf_folder,present_in_raw_extraction,present_in_clean_dataset,exclusion_stage,reason
+88,Lithuania,False,False,False,source acquisition / raw PDF corpus,No country PDF was present in gfp_pdfs; therefore no row entered extraction. Not removed by missingness or modeling filters.
+114,North Macedonia,False,False,False,source acquisition / raw PDF corpus,No country PDF was present in gfp_pdfs; therefore no row entered extraction. Not removed by missingness or modeling filters.

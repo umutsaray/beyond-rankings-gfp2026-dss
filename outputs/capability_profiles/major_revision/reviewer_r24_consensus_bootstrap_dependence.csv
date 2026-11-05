@@ -1,0 +1,3 @@
+﻿k,n_iterations,bootstrap_ari_mean,consensus_separation_from_same_runs,pearson_r_iteration_ari_vs_separation,pearson_p,spearman_rho_iteration_ari_vs_separation,spearman_p,independent_evidence,reason
+3,500,0.814923392500338,0.817424097961015,0.9992452496139232,0.0,0.9999632657889855,0.0,False,Both statistics are deterministic summaries of the same aligned bootstrap label matrices.
+4,500,0.7326202249198871,0.719416760158041,0.9975295170087269,0.0,0.9970193367133456,0.0,False,Both statistics are deterministic summaries of the same aligned bootstrap label matrices.

@@ -1,0 +1,2 @@
+﻿n_iterations,observed_silhouette_k2,observed_silhouette_k3,observed_difference_k3_minus_k2,bootstrap_mean_difference,bootstrap_sd_difference,bootstrap_median_difference,q025,q975,proportion_k3_greater_than_k2,one_sided_p_k3_not_greater,monte_carlo_se_of_proportion,monte_carlo_se_of_mean_difference
+500,0.5357962401879864,0.46091879935938634,-0.0748774408286001,-0.08475175916805025,0.055339722357980695,-0.08877969407428171,-0.1675786034360116,0.05999206350694097,0.052,0.9481037924151696,0.00992935043192655,0.0024748676209681957

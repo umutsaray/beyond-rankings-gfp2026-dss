@@ -23,6 +23,7 @@ Key entry points:
 - `src/run_major_revision_analyses.py`: reviewer-requested naval deletion, unit-variance, outlier, ranking-baseline, bootstrap, peer-sensitivity, and reproducibility analyses.
 - `src/validate_major_revision_outputs.py`: structural and numerical validation of the committed Major Revision results.
 - `src/create_table_s0_extensions.py`: produces the reviewer-requested 76-to-56 component map and source-field definition supplement.
+- `src/run_reviewer_tests_r24_r25_r26.py`: runs the reviewer-requested cluster-existence, method-bootstrap, stability-distribution, and peer-sensitivity tests.
 - `outputs/capability_profiles/major_revision/task1_variable_dictionary_76.csv`: the 76-variable data dictionary referenced as Table S0.
 
 ## Environment
@@ -143,6 +144,7 @@ The committed results include:
 - S8-corrected versus other-scenario peer results and top-5/top-10/top-15 sensitivity.
 - PCA implementation and silhouette-value audits.
 - Methodological fit review for key references.
+- Reviewer R2.4–R2.6 diagnostics: gap/null reference, dip tests, GMM BIC/ICL, method-specific 500-run bootstraps, silhouette comparison, bimodality and country-instability checks, and metric-specific Türkiye peer sensitivity.
 
 See [`outputs/capability_profiles/major_revision/major_revision_report.md`](outputs/capability_profiles/major_revision/major_revision_report.md) for the reviewer-oriented interpretation and manuscript recommendations.
 

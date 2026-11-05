@@ -1,0 +1,24 @@
+{
+  "n": 500,
+  "mean": 0.814923392500338,
+  "median": 0.9291591113537317,
+  "sd": 0.22259627694113238,
+  "q025": 0.29569470012279686,
+  "q975": 1.0,
+  "iterations_below_0_6": 97,
+  "proportion_below_0_6": 0.194,
+  "ari_dip_statistic": 0.08697683242113063,
+  "ari_dip_bootstrap_p_value": 0.0,
+  "kde_bandwidth_rule": "scipy gaussian_kde Scott default",
+  "kde_raw_local_mode_count": 2,
+  "kde_raw_mode_locations": [
+    0.34700000000000003,
+    0.9470000000000001
+  ],
+  "kde_prominent_mode_definition": "peak prominence >= 5% of maximum KDE density",
+  "kde_prominent_mode_count": 2,
+  "kde_prominent_mode_locations": [
+    0.34700000000000003,
+    0.9470000000000001
+  ]
+}

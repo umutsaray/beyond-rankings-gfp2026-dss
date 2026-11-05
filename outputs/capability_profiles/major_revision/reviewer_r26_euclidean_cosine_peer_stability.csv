@@ -1,0 +1,285 @@
+﻿metric,country,configurations_total,top10_occurrences,top10_presence_frequency,mean_rank_conditional_on_presence,metric_specific_level,level_definition
+euclidean,Afghanistan,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Albania,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Algeria,14,1,0.07142857142857142,9.0,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Angola,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Argentina,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Armenia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Australia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Austria,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Azerbaijan,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Bahrain,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Bangladesh,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Belarus,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Belgium,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Beliz,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Benin,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Bhutan,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Bolivia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Bosnia and Herzegovina,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Botswana,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Brazil,14,1,0.07142857142857142,9.0,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Bulgaria,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Burkina Faso,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Cambodia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Cameroon,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Canada,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Central African Republic,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Chad,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Chile,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,China,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Colombia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Croatia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Cuba,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Czechia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Democratic Republic of the Congo,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Denmark,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Dominican Republic,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Ecuador,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Egypt,14,7,0.5,2.0,MODERATE,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,El Salvador,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Eritrea,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Estonia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Ethiopia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Finland,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,France,14,9,0.6428571428571429,6.555555555555555,HIGH,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Gabon,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Georgia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Germany,14,8,0.5714285714285714,2.0,MODERATE,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Ghana,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Greece,14,4,0.2857142857142857,5.25,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Guatemala,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Honduras,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Hungary,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Iceland,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,India,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Indonesia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Iran,14,2,0.14285714285714285,5.0,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Iraq,14,2,0.14285714285714285,8.5,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Ireland,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Israel,14,3,0.21428571428571427,5.0,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Italy,14,10,0.7142857142857143,4.7,HIGH,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Ivory Coast,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Japan,14,4,0.2857142857142857,3.75,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Jordan,14,1,0.07142857142857142,7.0,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Kazakhstan,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Kenya,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Kosovo,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Kuwait,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Kyrgyzstan,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Laos,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Latvia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Lebanon,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Liberia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Libya,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Luxembourg,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Madagascar,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Malaysia,14,1,0.07142857142857142,10.0,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Mali,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Mauritania,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Mexico,14,6,0.42857142857142855,8.0,MODERATE,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Moldova,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Mongolia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Montenegro,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Morocco,14,3,0.21428571428571427,7.666666666666667,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Mozambique,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Myanmar,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Namibia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Nepal,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Netherlands,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,New Zealand,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Nicaragua,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Niger,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Nigeria,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,North Korea,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Norway,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Oman,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Pakistan,14,11,0.7857142857142857,8.181818181818182,HIGH,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Panama,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Paraguay,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Peru,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Philippines,14,5,0.35714285714285715,8.4,MODERATE,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Poland,14,5,0.35714285714285715,4.6,MODERATE,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Portugal,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Qatar,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Republic of the Congo,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Romania,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Russia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Saudi Arabia,14,2,0.14285714285714285,8.0,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Senegal,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Serbia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Sierra Leone,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Singapore,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Slovakia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Slovenia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Somalia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,South Africa,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,South Korea,14,4,0.2857142857142857,5.25,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,South Sudan,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Spain,14,11,0.7857142857142857,7.545454545454546,HIGH,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Sri Lanka,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Sudan,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Suriname,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Sweden,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Switzerland,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Syria,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Taiwan,14,12,0.8571428571428571,3.5833333333333335,HIGH,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Tajikistan,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Tanzania,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Thailand,14,13,0.9285714285714286,2.8461538461538463,HIGH,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Tunisia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Turkmenistan,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Uganda,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Ukraine,14,4,0.2857142857142857,5.0,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,United Arab Emirates,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,United Kingdom,14,4,0.2857142857142857,7.75,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,United States,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Uruguay,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Uzbekistan,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Venezuela,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Vietnam,14,7,0.5,6.285714285714286,MODERATE,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Yemen,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Zambia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+euclidean,Zimbabwe,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Afghanistan,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Albania,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Algeria,14,1,0.07142857142857142,10.0,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Angola,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Argentina,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Armenia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Australia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Austria,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Azerbaijan,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Bahrain,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Bangladesh,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Belarus,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Belgium,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Beliz,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Benin,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Bhutan,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Bolivia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Bosnia and Herzegovina,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Botswana,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Brazil,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Bulgaria,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Burkina Faso,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Cambodia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Cameroon,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Canada,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Central African Republic,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Chad,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Chile,14,3,0.21428571428571427,3.0,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,China,14,9,0.6428571428571429,6.555555555555555,HIGH,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Colombia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Croatia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Cuba,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Czechia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Democratic Republic of the Congo,14,1,0.07142857142857142,9.0,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Denmark,14,3,0.21428571428571427,2.3333333333333335,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Dominican Republic,14,3,0.21428571428571427,8.333333333333334,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Ecuador,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Egypt,14,6,0.42857142857142855,2.1666666666666665,MODERATE,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,El Salvador,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Eritrea,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Estonia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Ethiopia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Finland,14,3,0.21428571428571427,4.666666666666667,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,France,14,5,0.35714285714285715,8.0,MODERATE,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Gabon,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Georgia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Germany,14,6,0.42857142857142855,4.0,MODERATE,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Ghana,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Greece,14,3,0.21428571428571427,6.333333333333333,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Guatemala,14,1,0.07142857142857142,10.0,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Honduras,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Hungary,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Iceland,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,India,14,5,0.35714285714285715,5.4,MODERATE,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Indonesia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Iran,14,2,0.14285714285714285,7.0,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Iraq,14,2,0.14285714285714285,3.5,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Ireland,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Israel,14,1,0.07142857142857142,4.0,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Italy,14,6,0.42857142857142855,8.0,MODERATE,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Ivory Coast,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Japan,14,11,0.7857142857142857,3.909090909090909,HIGH,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Jordan,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Kazakhstan,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Kenya,14,3,0.21428571428571427,5.666666666666667,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Kosovo,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Kuwait,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Kyrgyzstan,14,1,0.07142857142857142,10.0,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Laos,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Latvia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Lebanon,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Liberia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Libya,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Luxembourg,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Madagascar,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Malaysia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Mali,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Mauritania,14,1,0.07142857142857142,8.0,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Mexico,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Moldova,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Mongolia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Montenegro,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Morocco,14,2,0.14285714285714285,8.0,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Mozambique,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Myanmar,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Namibia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Nepal,14,3,0.21428571428571427,2.6666666666666665,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Netherlands,14,3,0.21428571428571427,9.0,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,New Zealand,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Nicaragua,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Niger,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Nigeria,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,North Korea,14,1,0.07142857142857142,10.0,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Norway,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Oman,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Pakistan,14,11,0.7857142857142857,8.0,HIGH,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Panama,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Paraguay,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Peru,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Philippines,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Poland,14,4,0.2857142857142857,6.0,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Portugal,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Qatar,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Republic of the Congo,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Romania,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Russia,14,1,0.07142857142857142,9.0,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Saudi Arabia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Senegal,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Serbia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Sierra Leone,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Singapore,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Slovakia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Slovenia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Somalia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,South Africa,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,South Korea,14,9,0.6428571428571429,2.5555555555555554,HIGH,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,South Sudan,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Spain,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Sri Lanka,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Sudan,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Suriname,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Sweden,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Switzerland,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Syria,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Taiwan,14,8,0.5714285714285714,5.25,MODERATE,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Tajikistan,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Tanzania,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Thailand,14,12,0.8571428571428571,4.75,HIGH,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Tunisia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Turkmenistan,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Uganda,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Ukraine,14,5,0.35714285714285715,2.8,MODERATE,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,United Arab Emirates,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,United Kingdom,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,United States,14,4,0.2857142857142857,7.75,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Uruguay,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Uzbekistan,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Venezuela,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Vietnam,14,1,0.07142857142857142,4.0,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Yemen,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Zambia,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.
+cosine,Zimbabwe,14,0,0.0,,LOW,HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset.

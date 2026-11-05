@@ -26,6 +26,24 @@ REQUIRED = [
     "taskD_pca_reproducibility_audit.json",
     "taskE_silhouette_discrepancy_audit.json",
     "taskF_reference_method_fit_audit.csv",
+    "reviewer_r24_gap_null_reference.csv",
+    "reviewer_r24_pc1_pc2_dip_tests.csv",
+    "reviewer_r24_gmm_bic_icl.csv",
+    "reviewer_r24_method_bootstrap_500_iterations.csv",
+    "reviewer_r24_method_bootstrap_summary.csv",
+    "reviewer_r24_consensus_bootstrap_dependence.csv",
+    "reviewer_r24_silhouette_k3_vs_k2_bootstrap_500.csv",
+    "reviewer_r24_silhouette_k3_vs_k2_summary.csv",
+    "reviewer_r24_method_landlocked31_and_remaining112.csv",
+    "reviewer_r25_k3_bootstrap_distribution.json",
+    "reviewer_r25_country_membership_stability.csv",
+    "reviewer_r25_landlocked_stability_groups.csv",
+    "reviewer_r25_landlocked_joint_switch_audit.json",
+    "reviewer_r25_unstable_below080_cluster_composition.csv",
+    "reviewer_r26_euclidean_cosine_peer_stability.csv",
+    "reviewer_r26_s8_corrected_topn_sensitivity.csv",
+    "reviewer_r26_baseline_overlap_and_egypt.json",
+    "reviewer_tests_r24_r25_r26_summary.json",
 ]
 
 
@@ -46,6 +64,11 @@ def main() -> None:
     assert abs(result["task2"]["eta_squared"] - 0.6548217399327382) < 1e-12
     assert abs(result["task2"]["naval_variance_share_robust_PCA_input"] - 0.439244172701782) < 1e-12
     assert result["task2"]["k2_overlap"]["same_31_countries"] is True
+    reviewer = json.loads((ROOT / "reviewer_tests_r24_r25_r26_summary.json").read_text(encoding="utf-8"))
+    assert reviewer["specification"]["bootstrap_iterations"] == 500
+    assert reviewer["r24"]["gap_1se_k"] == 3
+    assert reviewer["r25"]["iterations_below_0_6"] == 97
+    assert reviewer["r26"]["baseline"]["overlap_count"] == 7
     rows = []
     for path in sorted(ROOT.iterdir()):
         if path.is_file() and path.name != "manifest.csv":

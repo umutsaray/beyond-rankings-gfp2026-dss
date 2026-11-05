@@ -1,0 +1,370 @@
+{
+  "specification": {
+    "n_countries": 143,
+    "representation": "S8-corrected eight-domain RobustScaler PCA90",
+    "pca_components": 4,
+    "bootstrap_iterations": 500
+  },
+  "r24": {
+    "gap_max_k": 4,
+    "gap_1se_k": 3,
+    "dip": [
+      {
+        "component": "PC1",
+        "n": 143,
+        "dip_statistic": 0.04194453500794204,
+        "bootstrap_p_value": 0.0659,
+        "reject_unimodality_at_0_05": false
+      },
+      {
+        "component": "PC2",
+        "n": 143,
+        "dip_statistic": 0.023521362801253366,
+        "bootstrap_p_value": 0.8855,
+        "reject_unimodality_at_0_05": false
+      }
+    ],
+    "gmm_bic_k": 3,
+    "gmm_icl_k": 2,
+    "method_bootstrap": [
+      {
+        "method": "agglomerative_average",
+        "n": 500,
+        "mean": 0.6989115318114626,
+        "sd": 0.3561472054432844,
+        "median": 0.9055704330273001,
+        "q025": 0.06386841477366169,
+        "q975": 1.0,
+        "below_0_6": 0.28
+      },
+      {
+        "method": "agglomerative_complete",
+        "n": 500,
+        "mean": 0.3973842719651989,
+        "sd": 0.2010137901292448,
+        "median": 0.3758252452707555,
+        "q025": 0.07175413639438681,
+        "q975": 0.7122221219881985,
+        "below_0_6": 0.754
+      },
+      {
+        "method": "agglomerative_ward",
+        "n": 500,
+        "mean": 0.6269206189019747,
+        "sd": 0.16716756497921592,
+        "median": 0.640933290069722,
+        "q025": 0.28824221927998295,
+        "q975": 0.9092215176637897,
+        "below_0_6": 0.376
+      },
+      {
+        "method": "gmm",
+        "n": 500,
+        "mean": 0.6921695660926953,
+        "sd": 0.21374440812488238,
+        "median": 0.7611253241992715,
+        "q025": 0.23141733560571157,
+        "q975": 0.9531075463521638,
+        "below_0_6": 0.282
+      },
+      {
+        "method": "kmeans",
+        "n": 500,
+        "mean": 0.814923392500338,
+        "sd": 0.22259627694113227,
+        "median": 0.9291591113537317,
+        "q025": 0.29569470012279686,
+        "q975": 1.0,
+        "below_0_6": 0.194
+      },
+      {
+        "method": "kmedoids",
+        "n": 500,
+        "mean": 0.3555047835413998,
+        "sd": 0.14143260563714327,
+        "median": 0.349197850635406,
+        "q025": -0.02407402387614085,
+        "q975": 0.6776934353335136,
+        "below_0_6": 0.934
+      }
+    ],
+    "consensus_dependence": [
+      {
+        "k": 3,
+        "n_iterations": 500,
+        "bootstrap_ari_mean": 0.814923392500338,
+        "consensus_separation_from_same_runs": 0.817424097961015,
+        "pearson_r_iteration_ari_vs_separation": 0.9992452496139232,
+        "pearson_p": 0.0,
+        "spearman_rho_iteration_ari_vs_separation": 0.9999632657889855,
+        "spearman_p": 0.0,
+        "independent_evidence": false,
+        "reason": "Both statistics are deterministic summaries of the same aligned bootstrap label matrices."
+      },
+      {
+        "k": 4,
+        "n_iterations": 500,
+        "bootstrap_ari_mean": 0.7326202249198871,
+        "consensus_separation_from_same_runs": 0.719416760158041,
+        "pearson_r_iteration_ari_vs_separation": 0.9975295170087269,
+        "pearson_p": 0.0,
+        "spearman_rho_iteration_ari_vs_separation": 0.9970193367133456,
+        "spearman_p": 0.0,
+        "independent_evidence": false,
+        "reason": "Both statistics are deterministic summaries of the same aligned bootstrap label matrices."
+      }
+    ],
+    "silhouette_test": {
+      "n_iterations": 500.0,
+      "observed_silhouette_k2": 0.5357962401879864,
+      "observed_silhouette_k3": 0.46091879935938634,
+      "observed_difference_k3_minus_k2": -0.0748774408286001,
+      "bootstrap_mean_difference": -0.08475175916805025,
+      "bootstrap_sd_difference": 0.055339722357980695,
+      "bootstrap_median_difference": -0.08877969407428171,
+      "q025": -0.1675786034360116,
+      "q975": 0.05999206350694097,
+      "proportion_k3_greater_than_k2": 0.052,
+      "one_sided_p_k3_not_greater": 0.9481037924151696,
+      "monte_carlo_se_of_proportion": 0.00992935043192655,
+      "monte_carlo_se_of_mean_difference": 0.0024748676209681957
+    },
+    "method_splits": [
+      {
+        "method": "kmeans",
+        "full_cluster_sizes": "31|55|57",
+        "landlocked31_number_of_pieces": 1,
+        "landlocked31_piece_sizes": "31",
+        "exact_landlocked31_cluster_recovered": true,
+        "remaining112_restricted_split_sizes": "55|57"
+      },
+      {
+        "method": "agglomerative_ward",
+        "full_cluster_sizes": "31|38|74",
+        "landlocked31_number_of_pieces": 1,
+        "landlocked31_piece_sizes": "31",
+        "exact_landlocked31_cluster_recovered": true,
+        "remaining112_restricted_split_sizes": "38|74"
+      },
+      {
+        "method": "agglomerative_average",
+        "full_cluster_sizes": "4|31|108",
+        "landlocked31_number_of_pieces": 1,
+        "landlocked31_piece_sizes": "31",
+        "exact_landlocked31_cluster_recovered": true,
+        "remaining112_restricted_split_sizes": "4|108"
+      },
+      {
+        "method": "agglomerative_complete",
+        "full_cluster_sizes": "18|48|77",
+        "landlocked31_number_of_pieces": 1,
+        "landlocked31_piece_sizes": "31",
+        "exact_landlocked31_cluster_recovered": false,
+        "remaining112_restricted_split_sizes": "18|46|48"
+      },
+      {
+        "method": "gmm",
+        "full_cluster_sizes": "31|45|67",
+        "landlocked31_number_of_pieces": 1,
+        "landlocked31_piece_sizes": "31",
+        "exact_landlocked31_cluster_recovered": true,
+        "remaining112_restricted_split_sizes": "45|67"
+      },
+      {
+        "method": "kmedoids",
+        "full_cluster_sizes": "19|49|75",
+        "landlocked31_number_of_pieces": 1,
+        "landlocked31_piece_sizes": "31",
+        "exact_landlocked31_cluster_recovered": false,
+        "remaining112_restricted_split_sizes": "19|44|49"
+      }
+    ]
+  },
+  "r25": {
+    "n": 500,
+    "mean": 0.814923392500338,
+    "median": 0.9291591113537317,
+    "sd": 0.22259627694113238,
+    "q025": 0.29569470012279686,
+    "q975": 1.0,
+    "iterations_below_0_6": 97,
+    "proportion_below_0_6": 0.194,
+    "ari_dip_statistic": 0.08697683242113063,
+    "ari_dip_bootstrap_p_value": 0.0,
+    "kde_bandwidth_rule": "scipy gaussian_kde Scott default",
+    "kde_raw_local_mode_count": 2,
+    "kde_raw_mode_locations": [
+      0.34700000000000003,
+      0.9470000000000001
+    ],
+    "kde_prominent_mode_definition": "peak prominence >= 5% of maximum KDE density",
+    "kde_prominent_mode_count": 2,
+    "kde_prominent_mode_locations": [
+      0.34700000000000003,
+      0.9470000000000001
+    ],
+    "landlocked_joint_switch_audit": {
+      "target_stability": 0.812,
+      "countries": [
+        "Belarus",
+        "Czechia",
+        "Ethiopia",
+        "Hungary",
+        "Serbia",
+        "Switzerland"
+      ],
+      "country_count": 6,
+      "all_six_switch_indicators_identical_in_every_iteration": true,
+      "iterations_all_six_switch": 94,
+      "iterations_none_of_six_switch": 406,
+      "iterations_partial_switch": 0
+    }
+  },
+  "r26": {
+    "china": [
+      {
+        "metric": "euclidean",
+        "country": "China",
+        "configurations_total": 14,
+        "top10_occurrences": 0,
+        "top10_presence_frequency": 0.0,
+        "mean_rank_conditional_on_presence": null,
+        "metric_specific_level": "LOW",
+        "level_definition": "HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset."
+      },
+      {
+        "metric": "cosine",
+        "country": "China",
+        "configurations_total": 14,
+        "top10_occurrences": 9,
+        "top10_presence_frequency": 0.6428571428571429,
+        "mean_rank_conditional_on_presence": 6.555555555555555,
+        "metric_specific_level": "HIGH",
+        "level_definition": "HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset."
+      }
+    ],
+    "spain": [
+      {
+        "metric": "euclidean",
+        "country": "Spain",
+        "configurations_total": 14,
+        "top10_occurrences": 11,
+        "top10_presence_frequency": 0.7857142857142857,
+        "mean_rank_conditional_on_presence": 7.545454545454546,
+        "metric_specific_level": "HIGH",
+        "level_definition": "HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset."
+      },
+      {
+        "metric": "cosine",
+        "country": "Spain",
+        "configurations_total": 14,
+        "top10_occurrences": 0,
+        "top10_presence_frequency": 0.0,
+        "mean_rank_conditional_on_presence": null,
+        "metric_specific_level": "LOW",
+        "level_definition": "HIGH >= 0.60; MODERATE >= 0.30; LOW < 0.30. Original cross-metric diversity requirements are inapplicable within a single-metric subset."
+      }
+    ],
+    "pakistan_s8": [
+      {
+        "top_n": 5,
+        "country": "Pakistan",
+        "configurations_total": 6,
+        "configurations_present": 0,
+        "presence_frequency": 0.0,
+        "mean_rank_conditional_on_presence": null,
+        "median_rank_conditional_on_presence": null
+      },
+      {
+        "top_n": 10,
+        "country": "Pakistan",
+        "configurations_total": 6,
+        "configurations_present": 1,
+        "presence_frequency": 0.16666666666666666,
+        "mean_rank_conditional_on_presence": 8.0,
+        "median_rank_conditional_on_presence": 8.0
+      },
+      {
+        "top_n": 15,
+        "country": "Pakistan",
+        "configurations_total": 6,
+        "configurations_present": 2,
+        "presence_frequency": 0.3333333333333333,
+        "mean_rank_conditional_on_presence": 11.5,
+        "median_rank_conditional_on_presence": 11.5
+      }
+    ],
+    "poland_s8": [
+      {
+        "top_n": 5,
+        "country": "Poland",
+        "configurations_total": 6,
+        "configurations_present": 0,
+        "presence_frequency": 0.0,
+        "mean_rank_conditional_on_presence": null,
+        "median_rank_conditional_on_presence": null
+      },
+      {
+        "top_n": 10,
+        "country": "Poland",
+        "configurations_total": 6,
+        "configurations_present": 1,
+        "presence_frequency": 0.16666666666666666,
+        "mean_rank_conditional_on_presence": 6.0,
+        "median_rank_conditional_on_presence": 6.0
+      },
+      {
+        "top_n": 15,
+        "country": "Poland",
+        "configurations_total": 6,
+        "configurations_present": 3,
+        "presence_frequency": 0.5,
+        "mean_rank_conditional_on_presence": 11.333333333333334,
+        "median_rank_conditional_on_presence": 13.0
+      }
+    ],
+    "baseline": {
+      "baseline_top10": [
+        "Egypt",
+        "Pakistan",
+        "Iran",
+        "Ukraine",
+        "Saudi Arabia",
+        "Algeria",
+        "South Korea",
+        "Thailand",
+        "Italy",
+        "Japan"
+      ],
+      "s8_corrected_original_euclidean_top10": [
+        "Egypt",
+        "Ukraine",
+        "Thailand",
+        "Italy",
+        "Spain",
+        "South Korea",
+        "Japan",
+        "Iraq",
+        "Saudi Arabia",
+        "United Kingdom"
+      ],
+      "overlap_count": 7,
+      "overlap_countries": [
+        "Egypt",
+        "Ukraine",
+        "Saudi Arabia",
+        "South Korea",
+        "Thailand",
+        "Italy",
+        "Japan"
+      ],
+      "jaccard": 0.5384615384615384,
+      "identical_lists": false,
+      "egypt_all42_top10_occurrences": 20,
+      "egypt_all42_presence_frequency": 0.47619047619047616,
+      "egypt_mean_rank_conditional_on_presence": 2.9,
+      "egypt_mean_rank_denominator": 20,
+      "egypt_total_eligible_configurations": 42
+    }
+  }
+}

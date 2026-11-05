@@ -1,0 +1,43 @@
+{
+  "baseline_top10": [
+    "Egypt",
+    "Pakistan",
+    "Iran",
+    "Ukraine",
+    "Saudi Arabia",
+    "Algeria",
+    "South Korea",
+    "Thailand",
+    "Italy",
+    "Japan"
+  ],
+  "s8_corrected_original_euclidean_top10": [
+    "Egypt",
+    "Ukraine",
+    "Thailand",
+    "Italy",
+    "Spain",
+    "South Korea",
+    "Japan",
+    "Iraq",
+    "Saudi Arabia",
+    "United Kingdom"
+  ],
+  "overlap_count": 7,
+  "overlap_countries": [
+    "Egypt",
+    "Ukraine",
+    "Saudi Arabia",
+    "South Korea",
+    "Thailand",
+    "Italy",
+    "Japan"
+  ],
+  "jaccard": 0.5384615384615384,
+  "identical_lists": false,
+  "egypt_all42_top10_occurrences": 20,
+  "egypt_all42_presence_frequency": 0.47619047619047616,
+  "egypt_mean_rank_conditional_on_presence": 2.9,
+  "egypt_mean_rank_denominator": 20,
+  "egypt_total_eligible_configurations": 42
+}

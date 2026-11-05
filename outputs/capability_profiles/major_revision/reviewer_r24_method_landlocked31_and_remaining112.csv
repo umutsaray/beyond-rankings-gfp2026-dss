@@ -1,0 +1,7 @@
+﻿method,full_cluster_sizes,landlocked31_number_of_pieces,landlocked31_piece_sizes,exact_landlocked31_cluster_recovered,remaining112_restricted_split_sizes
+kmeans,31|55|57,1,31,True,55|57
+agglomerative_ward,31|38|74,1,31,True,38|74
+agglomerative_average,4|31|108,1,31,True,4|108
+agglomerative_complete,18|48|77,1,31,False,18|46|48
+gmm,31|45|67,1,31,True,45|67
+kmedoids,19|49|75,1,31,False,19|44|49

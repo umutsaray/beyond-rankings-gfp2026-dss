@@ -1,0 +1,16 @@
+{
+  "target_stability": 0.812,
+  "countries": [
+    "Belarus",
+    "Czechia",
+    "Ethiopia",
+    "Hungary",
+    "Serbia",
+    "Switzerland"
+  ],
+  "country_count": 6,
+  "all_six_switch_indicators_identical_in_every_iteration": true,
+  "iterations_all_six_switch": 94,
+  "iterations_none_of_six_switch": 406,
+  "iterations_partial_switch": 0
+}

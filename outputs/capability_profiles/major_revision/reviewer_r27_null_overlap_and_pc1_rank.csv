@@ -1,0 +1,8 @@
+﻿test,quantity,value
+null_top10_overlap,expected_overlap,0.704225352112676
+null_top10_overlap,observed_overlap,6.0
+null_top10_overlap,P_X_ge_6_hypergeometric,3.888335443374055e-06
+PC1_vs_PwrIndx,pearson_r,-0.6699921078076284
+PC1_vs_PwrIndx,spearman_rho,-0.8109425785482124
+PC1_vs_rank,pearson_r,-0.7031619528499045
+PC1_vs_rank,spearman_rho,-0.8111014099915318

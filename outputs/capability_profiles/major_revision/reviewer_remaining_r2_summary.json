@@ -1,0 +1,741 @@
+{
+  "r22": {
+    "spotcheck": [
+      {
+        "country": "Bolivia",
+        "coastline": 0,
+        "naval_presence": 0.0,
+        "classification": "structural_absence_landlocked",
+        "positive_naval_fields": "{}",
+        "all_naval_fields": "{\"aircraft_carriers\": null, \"corvettes\": null, \"destroyers\": null, \"frigates\": null, \"helicopter_carriers\": null, \"mine_warfare\": null, \"naval_total_assets\": null, \"naval_total_tonnage\": null, \"patrol_vessels\": null, \"submarines\": null}",
+        "coding_reason": "any naval field > 0 => 1; otherwise coastline=0 and all naval fields absent/zero => 0"
+      },
+      {
+        "country": "Paraguay",
+        "coastline": 0,
+        "naval_presence": 0.0,
+        "classification": "structural_absence_landlocked",
+        "positive_naval_fields": "{}",
+        "all_naval_fields": "{\"aircraft_carriers\": null, \"corvettes\": null, \"destroyers\": null, \"frigates\": null, \"helicopter_carriers\": null, \"mine_warfare\": null, \"naval_total_assets\": null, \"naval_total_tonnage\": null, \"patrol_vessels\": null, \"submarines\": null}",
+        "coding_reason": "any naval field > 0 => 1; otherwise coastline=0 and all naval fields absent/zero => 0"
+      },
+      {
+        "country": "Uzbekistan",
+        "coastline": 420,
+        "naval_presence": 1.0,
+        "classification": "observed_naval_presence",
+        "positive_naval_fields": "{\"corvettes\": 999.0, \"destroyers\": 999.0, \"frigates\": 999.0, \"mine_warfare\": 999.0, \"submarines\": 999.0}",
+        "all_naval_fields": "{\"aircraft_carriers\": 0.0, \"corvettes\": 999.0, \"destroyers\": 999.0, \"frigates\": 999.0, \"helicopter_carriers\": 0.0, \"mine_warfare\": 999.0, \"naval_total_assets\": 0.0, \"naval_total_tonnage\": null, \"patrol_vessels\": 0.0, \"submarines\": 999.0}",
+        "coding_reason": "any naval field > 0 => 1; otherwise coastline=0 and all naval fields absent/zero => 0"
+      }
+    ],
+    "coastline_presence_disagreement_count": 0,
+    "disagreements": []
+  },
+  "r26": {
+    "taiwan_alternatives": [
+      {
+        "representation": "8_domain_unit_variance_PCA90",
+        "top10_occurrences": 0,
+        "configurations_total": 3,
+        "presence_frequency": 0.0
+      },
+      {
+        "representation": "7_domain_no_naval_PCA90",
+        "top10_occurrences": 0,
+        "configurations_total": 3,
+        "presence_frequency": 0.0
+      }
+    ],
+    "representative_distances": [
+      {
+        "configuration": "S8_corrected_domain_space_euclidean",
+        "country": "Egypt",
+        "distance_from_Turkiye": 0.6457419381339309,
+        "rank_among_142": 1
+      },
+      {
+        "configuration": "S8_corrected_domain_space_euclidean",
+        "country": "Ukraine",
+        "distance_from_Turkiye": 0.8055676088549552,
+        "rank_among_142": 2
+      },
+      {
+        "configuration": "S8_corrected_domain_space_euclidean",
+        "country": "Thailand",
+        "distance_from_Turkiye": 0.8598480973235756,
+        "rank_among_142": 3
+      },
+      {
+        "configuration": "S8_corrected_domain_space_euclidean",
+        "country": "Iraq",
+        "distance_from_Turkiye": 1.3475572220696972,
+        "rank_among_142": 8
+      },
+      {
+        "configuration": "S8_corrected_domain_space_euclidean",
+        "country": "Pakistan",
+        "distance_from_Turkiye": 1.5855728298928886,
+        "rank_among_142": 16
+      },
+      {
+        "configuration": "S8_corrected_domain_space_euclidean",
+        "country": "Poland",
+        "distance_from_Turkiye": 1.5713719818751524,
+        "rank_among_142": 15
+      },
+      {
+        "configuration": "S8_corrected_domain_space_euclidean",
+        "country": "China",
+        "distance_from_Turkiye": 3.4512072185161236,
+        "rank_among_142": 79
+      },
+      {
+        "configuration": "S8_corrected_domain_space_euclidean",
+        "country": "Spain",
+        "distance_from_Turkiye": 1.1960227627532078,
+        "rank_among_142": 5
+      }
+    ],
+    "egypt": {
+      "occurrences": 20,
+      "eligible": 42,
+      "presence_frequency": 0.4761904761904761,
+      "mean_rank_conditional_on_presence": 2.9
+    }
+  },
+  "r27": {
+    "statistics": [
+      {
+        "test": "null_top10_overlap",
+        "quantity": "expected_overlap",
+        "value": 0.704225352112676
+      },
+      {
+        "test": "null_top10_overlap",
+        "quantity": "observed_overlap",
+        "value": 6.0
+      },
+      {
+        "test": "null_top10_overlap",
+        "quantity": "P_X_ge_6_hypergeometric",
+        "value": 3.888335443374055e-06
+      },
+      {
+        "test": "PC1_vs_PwrIndx",
+        "quantity": "pearson_r",
+        "value": -0.6699921078076284
+      },
+      {
+        "test": "PC1_vs_PwrIndx",
+        "quantity": "spearman_rho",
+        "value": -0.8109425785482124
+      },
+      {
+        "test": "PC1_vs_rank",
+        "quantity": "pearson_r",
+        "value": -0.7031619528499045
+      },
+      {
+        "test": "PC1_vs_rank",
+        "quantity": "spearman_rho",
+        "value": -0.8111014099915318
+      }
+    ],
+    "cluster_rank_distribution": [
+      {
+        "cluster": 1,
+        "country_count": 57,
+        "min_rank": 29,
+        "median_rank": 97.0,
+        "max_rank": 144
+      },
+      {
+        "cluster": 2,
+        "country_count": 31,
+        "min_rank": 46,
+        "median_rank": 105.0,
+        "max_rank": 145
+      },
+      {
+        "cluster": 3,
+        "country_count": 55,
+        "min_rank": 1,
+        "median_rank": 28.0,
+        "max_rank": 66
+      }
+    ]
+  },
+  "r28": [
+    {
+      "spearman_threshold": 0.7,
+      "original_variables": 76,
+      "retained_components": 24,
+      "pca90_components": 4,
+      "k3_cluster_sizes": "31|51|61",
+      "ari_vs_threshold_0_90": 0.9065402255616989
+    },
+    {
+      "spearman_threshold": 0.75,
+      "original_variables": 76,
+      "retained_components": 26,
+      "pca90_components": 4,
+      "k3_cluster_sizes": "31|49|63",
+      "ari_vs_threshold_0_90": 0.8626214934409945
+    },
+    {
+      "spearman_threshold": 0.8,
+      "original_variables": 76,
+      "retained_components": 37,
+      "pca90_components": 4,
+      "k3_cluster_sizes": "31|54|58",
+      "ari_vs_threshold_0_90": 0.9759530928448448
+    },
+    {
+      "spearman_threshold": 0.85,
+      "original_variables": 76,
+      "retained_components": 47,
+      "pca90_components": 4,
+      "k3_cluster_sizes": "31|55|57",
+      "ari_vs_threshold_0_90": 1.0
+    },
+    {
+      "spearman_threshold": 0.9,
+      "original_variables": 76,
+      "retained_components": 56,
+      "pca90_components": 4,
+      "k3_cluster_sizes": "31|55|57",
+      "ari_vs_threshold_0_90": 1.0
+    },
+    {
+      "spearman_threshold": 0.95,
+      "original_variables": 76,
+      "retained_components": 56,
+      "pca90_components": 4,
+      "k3_cluster_sizes": "31|55|57",
+      "ari_vs_threshold_0_90": 1.0
+    }
+  ],
+  "r211": {
+    "leaveout": [
+      {
+        "case": "drop_United_States",
+        "removed_countries": "United States",
+        "n_countries": 142,
+        "ari_vs_original_restricted": 1.0,
+        "cluster_sizes": "31|54|57",
+        "changed_assignment_count_after_alignment": 0,
+        "changed_countries": "",
+        "pca90_components": 4,
+        "retained_components": 56
+      },
+      {
+        "case": "drop_China",
+        "removed_countries": "China",
+        "n_countries": 142,
+        "ari_vs_original_restricted": 1.0,
+        "cluster_sizes": "31|54|57",
+        "changed_assignment_count_after_alignment": 0,
+        "changed_countries": "",
+        "pca90_components": 4,
+        "retained_components": 56
+      },
+      {
+        "case": "drop_Iceland",
+        "removed_countries": "Iceland",
+        "n_countries": 142,
+        "ari_vs_original_restricted": 0.9520718301264577,
+        "cluster_sizes": "31|53|58",
+        "changed_assignment_count_after_alignment": 2,
+        "changed_countries": "Democratic Republic of the Congo|Portugal",
+        "pca90_components": 4,
+        "retained_components": 56
+      },
+      {
+        "case": "drop_all_three",
+        "removed_countries": "United States|China|Iceland",
+        "n_countries": 140,
+        "ari_vs_original_restricted": 1.0,
+        "cluster_sizes": "31|53|56",
+        "changed_assignment_count_after_alignment": 0,
+        "changed_countries": "",
+        "pca90_components": 4,
+        "retained_components": 56
+      }
+    ],
+    "mahalanobis_flagged": [
+      {
+        "space": "original_8_domain_space",
+        "dimensions": 8,
+        "chi2_99_cutoff": 20.090235029663233,
+        "country": "China",
+        "mahalanobis_d2": 26.62815399774393,
+        "flagged_99pct": true
+      },
+      {
+        "space": "original_8_domain_space",
+        "dimensions": 8,
+        "chi2_99_cutoff": 20.090235029663233,
+        "country": "Iceland",
+        "mahalanobis_d2": 43.86914886043572,
+        "flagged_99pct": true
+      },
+      {
+        "space": "original_8_domain_space",
+        "dimensions": 8,
+        "chi2_99_cutoff": 20.090235029663233,
+        "country": "United States",
+        "mahalanobis_d2": 31.443076765847195,
+        "flagged_99pct": true
+      },
+      {
+        "space": "PCA90_4_component_space",
+        "dimensions": 4,
+        "chi2_99_cutoff": 13.276704135987622,
+        "country": "Iceland",
+        "mahalanobis_d2": 13.440959567094227,
+        "flagged_99pct": true
+      },
+      {
+        "space": "PCA90_4_component_space",
+        "dimensions": 4,
+        "chi2_99_cutoff": 13.276704135987622,
+        "country": "Luxembourg",
+        "mahalanobis_d2": 14.449837056606007,
+        "flagged_99pct": true
+      }
+    ],
+    "s5": [
+      {
+        "space": "original",
+        "S5_top10": [
+          "Germany",
+          "Thailand",
+          "Taiwan",
+          "Italy",
+          "France",
+          "Spain",
+          "Vietnam",
+          "United Kingdom",
+          "Mexico",
+          "Pakistan"
+        ],
+        "S8_corrected_top10": [
+          "Egypt",
+          "Ukraine",
+          "Thailand",
+          "Italy",
+          "Spain",
+          "South Korea",
+          "Japan",
+          "Iraq",
+          "Saudi Arabia",
+          "United Kingdom"
+        ],
+        "overlap_count": 4,
+        "overlap_countries": [
+          "Italy",
+          "Spain",
+          "Thailand",
+          "United Kingdom"
+        ],
+        "jaccard": 0.25
+      },
+      {
+        "space": "pca90",
+        "S5_top10": [
+          "Germany",
+          "Thailand",
+          "Taiwan",
+          "Italy",
+          "France",
+          "Mexico",
+          "Vietnam",
+          "Spain",
+          "Philippines",
+          "Pakistan"
+        ],
+        "S8_corrected_top10": [
+          "Egypt",
+          "Ukraine",
+          "Thailand",
+          "Italy",
+          "Japan",
+          "Spain",
+          "Saudi Arabia",
+          "South Korea",
+          "Iraq",
+          "France"
+        ],
+        "overlap_count": 4,
+        "overlap_countries": [
+          "France",
+          "Italy",
+          "Spain",
+          "Thailand"
+        ],
+        "jaccard": 0.25
+      }
+    ]
+  },
+  "r212": {
+    "alternative": "feature mean imputation; structural landlocked naval missing values remain zero",
+    "ari_vs_primary_median_imputation": 1.0,
+    "changed_assignment_count": 0,
+    "changed_countries": [],
+    "cluster_sizes": [
+      31,
+      55,
+      57
+    ],
+    "retained_components": 56,
+    "pca90_components": 4
+  },
+  "r216": [
+    {
+      "k": 2,
+      "turkiye_cluster_id": 1,
+      "bootstrap_membership_stability": 1.0,
+      "bootstrap_membership_stability_percent": 100.0
+    },
+    {
+      "k": 3,
+      "turkiye_cluster_id": 3,
+      "bootstrap_membership_stability": 1.0,
+      "bootstrap_membership_stability_percent": 100.0
+    },
+    {
+      "k": 4,
+      "turkiye_cluster_id": 3,
+      "bootstrap_membership_stability": 0.664,
+      "bootstrap_membership_stability_percent": 66.4
+    },
+    {
+      "k": 5,
+      "turkiye_cluster_id": 4,
+      "bootstrap_membership_stability": 0.708,
+      "bootstrap_membership_stability_percent": 70.8
+    },
+    {
+      "k": 6,
+      "turkiye_cluster_id": 5,
+      "bootstrap_membership_stability": 0.784,
+      "bootstrap_membership_stability_percent": 78.4
+    }
+  ],
+  "r217": {
+    "source_audit": [
+      {
+        "country_requested": "Lithuania",
+        "dataset_country": "",
+        "present_in_143": false,
+        "local_rank": null,
+        "local_pwrindx": null,
+        "official_detail_rank": 88,
+        "official_listing_rank_current": 88,
+        "official_pwrindx": 1.8949,
+        "finding": "Absent because no source PDF entered acquisition; adding requires acquisition/extraction and full downstream rerun."
+      },
+      {
+        "country_requested": "North Macedonia",
+        "dataset_country": "",
+        "present_in_143": false,
+        "local_rank": null,
+        "local_pwrindx": null,
+        "official_detail_rank": 114,
+        "official_listing_rank_current": 114,
+        "official_pwrindx": 2.4956,
+        "finding": "Absent because no source PDF entered acquisition; adding requires acquisition/extraction and full downstream rerun."
+      },
+      {
+        "country_requested": "Benin",
+        "dataset_country": "Benin",
+        "present_in_143": true,
+        "local_rank": 137.0,
+        "local_pwrindx": 3.8963,
+        "official_detail_rank": 137,
+        "official_listing_rank_current": 138,
+        "official_pwrindx": 3.8963,
+        "finding": "PwrIndx matches. Local PDF/detail rank matches 137; current official aggregate listing shows 138, an official-source inconsistency rather than OCR corruption."
+      },
+      {
+        "country_requested": "Kosovo",
+        "dataset_country": "Kosovo",
+        "present_in_143": true,
+        "local_rank": 138.0,
+        "local_pwrindx": 3.8041,
+        "official_detail_rank": 138,
+        "official_listing_rank_current": 139,
+        "official_pwrindx": 3.8041,
+        "finding": "PwrIndx matches. Local PDF/detail rank matches 138; current official aggregate listing shows 139, an official-source inconsistency rather than OCR corruption."
+      },
+      {
+        "country_requested": "Belize",
+        "dataset_country": "Beliz",
+        "present_in_143": true,
+        "local_rank": 144.0,
+        "local_pwrindx": 4.3602,
+        "official_detail_rank": 144,
+        "official_listing_rank_current": 144,
+        "official_pwrindx": 4.3602,
+        "finding": "No discrepancy. GFP source and dataset both use the spelling 'Beliz', not 'Belize'."
+      }
+    ],
+    "china": [
+      {
+        "country": "China",
+        "families_eligible": 42,
+        "families_top10": 9,
+        "family_presence_frequency": 0.2142857142857142,
+        "mean_family_rank": 6.555555555555555,
+        "median_family_rank": 6.0,
+        "euclidean_presence": 0.0,
+        "mahalanobis_presence": 0.0,
+        "cosine_presence": 0.6428571428571429,
+        "original_space_presence": 0.2857142857142857,
+        "pca_space_presence": 0.1428571428571428,
+        "preprocessing_scenario_count": 6,
+        "same_cluster_frequency": 0.2857142857142857,
+        "stability_level": "LOW",
+        "included_current_figure_top15": false,
+        "included_moderate_plus_threshold": false
+      }
+    ],
+    "moderate_plus": [
+      {
+        "country": "Thailand",
+        "families_eligible": 42,
+        "families_top10": 37,
+        "family_presence_frequency": 0.8809523809523809,
+        "mean_family_rank": 3.6216216216216215,
+        "median_family_rank": 3.0,
+        "euclidean_presence": 0.9285714285714286,
+        "mahalanobis_presence": 0.8571428571428571,
+        "cosine_presence": 0.8571428571428571,
+        "original_space_presence": 0.8095238095238095,
+        "pca_space_presence": 0.9523809523809524,
+        "preprocessing_scenario_count": 7,
+        "same_cluster_frequency": 1.0,
+        "stability_level": "HIGH",
+        "included_current_figure_top15": true,
+        "included_moderate_plus_threshold": true
+      },
+      {
+        "country": "Taiwan",
+        "families_eligible": 42,
+        "families_top10": 31,
+        "family_presence_frequency": 0.7380952380952381,
+        "mean_family_rank": 4.516129032258065,
+        "median_family_rank": 4.0,
+        "euclidean_presence": 0.8571428571428571,
+        "mahalanobis_presence": 0.7857142857142857,
+        "cosine_presence": 0.5714285714285714,
+        "original_space_presence": 0.7619047619047619,
+        "pca_space_presence": 0.7142857142857143,
+        "preprocessing_scenario_count": 7,
+        "same_cluster_frequency": 1.0,
+        "stability_level": "HIGH",
+        "included_current_figure_top15": true,
+        "included_moderate_plus_threshold": true
+      },
+      {
+        "country": "Pakistan",
+        "families_eligible": 42,
+        "families_top10": 29,
+        "family_presence_frequency": 0.6904761904761905,
+        "mean_family_rank": 8.206896551724139,
+        "median_family_rank": 9.0,
+        "euclidean_presence": 0.7857142857142857,
+        "mahalanobis_presence": 0.5,
+        "cosine_presence": 0.7857142857142857,
+        "original_space_presence": 0.6666666666666666,
+        "pca_space_presence": 0.7142857142857143,
+        "preprocessing_scenario_count": 7,
+        "same_cluster_frequency": 1.0,
+        "stability_level": "HIGH",
+        "included_current_figure_top15": true,
+        "included_moderate_plus_threshold": true
+      },
+      {
+        "country": "Italy",
+        "families_eligible": 42,
+        "families_top10": 22,
+        "family_presence_frequency": 0.5238095238095238,
+        "mean_family_rank": 5.909090909090909,
+        "median_family_rank": 6.0,
+        "euclidean_presence": 0.7142857142857143,
+        "mahalanobis_presence": 0.4285714285714285,
+        "cosine_presence": 0.4285714285714285,
+        "original_space_presence": 0.4761904761904761,
+        "pca_space_presence": 0.5714285714285714,
+        "preprocessing_scenario_count": 6,
+        "same_cluster_frequency": 1.0,
+        "stability_level": "MODERATE",
+        "included_current_figure_top15": true,
+        "included_moderate_plus_threshold": true
+      },
+      {
+        "country": "France",
+        "families_eligible": 42,
+        "families_top10": 21,
+        "family_presence_frequency": 0.5,
+        "mean_family_rank": 5.619047619047619,
+        "median_family_rank": 5.0,
+        "euclidean_presence": 0.6428571428571429,
+        "mahalanobis_presence": 0.5,
+        "cosine_presence": 0.3571428571428571,
+        "original_space_presence": 0.5714285714285714,
+        "pca_space_presence": 0.4285714285714285,
+        "preprocessing_scenario_count": 6,
+        "same_cluster_frequency": 1.0,
+        "stability_level": "MODERATE",
+        "included_current_figure_top15": true,
+        "included_moderate_plus_threshold": true
+      },
+      {
+        "country": "Egypt",
+        "families_eligible": 42,
+        "families_top10": 20,
+        "family_presence_frequency": 0.4761904761904761,
+        "mean_family_rank": 2.9,
+        "median_family_rank": 2.0,
+        "euclidean_presence": 0.5,
+        "mahalanobis_presence": 0.5,
+        "cosine_presence": 0.4285714285714285,
+        "original_space_presence": 0.5238095238095238,
+        "pca_space_presence": 0.4285714285714285,
+        "preprocessing_scenario_count": 4,
+        "same_cluster_frequency": 1.0,
+        "stability_level": "MODERATE",
+        "included_current_figure_top15": true,
+        "included_moderate_plus_threshold": true
+      },
+      {
+        "country": "Germany",
+        "families_eligible": 42,
+        "families_top10": 19,
+        "family_presence_frequency": 0.4523809523809524,
+        "mean_family_rank": 3.210526315789474,
+        "median_family_rank": 2.0,
+        "euclidean_presence": 0.5714285714285714,
+        "mahalanobis_presence": 0.3571428571428571,
+        "cosine_presence": 0.4285714285714285,
+        "original_space_presence": 0.3333333333333333,
+        "pca_space_presence": 0.5714285714285714,
+        "preprocessing_scenario_count": 5,
+        "same_cluster_frequency": 1.0,
+        "stability_level": "MODERATE",
+        "included_current_figure_top15": true,
+        "included_moderate_plus_threshold": true
+      },
+      {
+        "country": "Japan",
+        "families_eligible": 42,
+        "families_top10": 19,
+        "family_presence_frequency": 0.4523809523809524,
+        "mean_family_rank": 4.0,
+        "median_family_rank": 3.0,
+        "euclidean_presence": 0.2857142857142857,
+        "mahalanobis_presence": 0.2857142857142857,
+        "cosine_presence": 0.7857142857142857,
+        "original_space_presence": 0.5714285714285714,
+        "pca_space_presence": 0.3333333333333333,
+        "preprocessing_scenario_count": 7,
+        "same_cluster_frequency": 0.5714285714285714,
+        "stability_level": "MODERATE",
+        "included_current_figure_top15": true,
+        "included_moderate_plus_threshold": true
+      },
+      {
+        "country": "South Korea",
+        "families_eligible": 42,
+        "families_top10": 18,
+        "family_presence_frequency": 0.4285714285714285,
+        "mean_family_rank": 4.0,
+        "median_family_rank": 3.5,
+        "euclidean_presence": 0.2857142857142857,
+        "mahalanobis_presence": 0.3571428571428571,
+        "cosine_presence": 0.6428571428571429,
+        "original_space_presence": 0.5714285714285714,
+        "pca_space_presence": 0.2857142857142857,
+        "preprocessing_scenario_count": 7,
+        "same_cluster_frequency": 1.0,
+        "stability_level": "MODERATE",
+        "included_current_figure_top15": true,
+        "included_moderate_plus_threshold": true
+      },
+      {
+        "country": "Spain",
+        "families_eligible": 42,
+        "families_top10": 17,
+        "family_presence_frequency": 0.4047619047619047,
+        "mean_family_rank": 7.176470588235294,
+        "median_family_rank": 7.0,
+        "euclidean_presence": 0.7857142857142857,
+        "mahalanobis_presence": 0.4285714285714285,
+        "cosine_presence": 0.0,
+        "original_space_presence": 0.3809523809523809,
+        "pca_space_presence": 0.4285714285714285,
+        "preprocessing_scenario_count": 6,
+        "same_cluster_frequency": 1.0,
+        "stability_level": "MODERATE",
+        "included_current_figure_top15": true,
+        "included_moderate_plus_threshold": true
+      },
+      {
+        "country": "Greece",
+        "families_eligible": 42,
+        "families_top10": 16,
+        "family_presence_frequency": 0.3809523809523809,
+        "mean_family_rank": 5.375,
+        "median_family_rank": 5.0,
+        "euclidean_presence": 0.2857142857142857,
+        "mahalanobis_presence": 0.6428571428571429,
+        "cosine_presence": 0.2142857142857142,
+        "original_space_presence": 0.5238095238095238,
+        "pca_space_presence": 0.238095238095238,
+        "preprocessing_scenario_count": 7,
+        "same_cluster_frequency": 1.0,
+        "stability_level": "MODERATE",
+        "included_current_figure_top15": true,
+        "included_moderate_plus_threshold": true
+      },
+      {
+        "country": "Poland",
+        "families_eligible": 42,
+        "families_top10": 16,
+        "family_presence_frequency": 0.3809523809523809,
+        "mean_family_rank": 5.5625,
+        "median_family_rank": 5.5,
+        "euclidean_presence": 0.3571428571428571,
+        "mahalanobis_presence": 0.5,
+        "cosine_presence": 0.2857142857142857,
+        "original_space_presence": 0.4285714285714285,
+        "pca_space_presence": 0.3333333333333333,
+        "preprocessing_scenario_count": 6,
+        "same_cluster_frequency": 1.0,
+        "stability_level": "MODERATE",
+        "included_current_figure_top15": true,
+        "included_moderate_plus_threshold": true
+      },
+      {
+        "country": "Morocco",
+        "families_eligible": 42,
+        "families_top10": 13,
+        "family_presence_frequency": 0.3095238095238095,
+        "mean_family_rank": 6.307692307692308,
+        "median_family_rank": 6.0,
+        "euclidean_presence": 0.2142857142857142,
+        "mahalanobis_presence": 0.5714285714285714,
+        "cosine_presence": 0.1428571428571428,
+        "original_space_presence": 0.3809523809523809,
+        "pca_space_presence": 0.238095238095238,
+        "preprocessing_scenario_count": 6,
+        "same_cluster_frequency": 1.0,
+        "stability_level": "MODERATE",
+        "included_current_figure_top15": true,
+        "included_moderate_plus_threshold": true
+      }
+    ]
+  }
+}

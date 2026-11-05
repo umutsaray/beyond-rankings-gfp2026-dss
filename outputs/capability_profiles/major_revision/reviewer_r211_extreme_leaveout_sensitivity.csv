@@ -1,0 +1,5 @@
+﻿case,removed_countries,n_countries,ari_vs_original_restricted,cluster_sizes,changed_assignment_count_after_alignment,changed_countries,pca90_components,retained_components
+drop_United_States,United States,142,1.0,31|54|57,0,,4,56
+drop_China,China,142,1.0,31|54|57,0,,4,56
+drop_Iceland,Iceland,142,0.9520718301264577,31|53|58,2,Democratic Republic of the Congo|Portugal,4,56
+drop_all_three,United States|China|Iceland,140,1.0,31|53|56,0,,4,56

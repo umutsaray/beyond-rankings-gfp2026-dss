@@ -1,0 +1,72 @@
+[
+  {
+    "space": "original",
+    "S5_top10": [
+      "Germany",
+      "Thailand",
+      "Taiwan",
+      "Italy",
+      "France",
+      "Spain",
+      "Vietnam",
+      "United Kingdom",
+      "Mexico",
+      "Pakistan"
+    ],
+    "S8_corrected_top10": [
+      "Egypt",
+      "Ukraine",
+      "Thailand",
+      "Italy",
+      "Spain",
+      "South Korea",
+      "Japan",
+      "Iraq",
+      "Saudi Arabia",
+      "United Kingdom"
+    ],
+    "overlap_count": 4,
+    "overlap_countries": [
+      "Italy",
+      "Spain",
+      "Thailand",
+      "United Kingdom"
+    ],
+    "jaccard": 0.25
+  },
+  {
+    "space": "pca90",
+    "S5_top10": [
+      "Germany",
+      "Thailand",
+      "Taiwan",
+      "Italy",
+      "France",
+      "Mexico",
+      "Vietnam",
+      "Spain",
+      "Philippines",
+      "Pakistan"
+    ],
+    "S8_corrected_top10": [
+      "Egypt",
+      "Ukraine",
+      "Thailand",
+      "Italy",
+      "Japan",
+      "Spain",
+      "Saudi Arabia",
+      "South Korea",
+      "Iraq",
+      "France"
+    ],
+    "overlap_count": 4,
+    "overlap_countries": [
+      "France",
+      "Italy",
+      "Spain",
+      "Thailand"
+    ],
+    "jaccard": 0.25
+  }
+]

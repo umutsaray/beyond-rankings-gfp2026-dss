@@ -1,0 +1,13 @@
+{
+  "alternative": "feature mean imputation; structural landlocked naval missing values remain zero",
+  "ari_vs_primary_median_imputation": 1.0,
+  "changed_assignment_count": 0,
+  "changed_countries": [],
+  "cluster_sizes": [
+    31,
+    55,
+    57
+  ],
+  "retained_components": 56,
+  "pca90_components": 4
+}

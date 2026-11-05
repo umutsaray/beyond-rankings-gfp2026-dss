@@ -1,0 +1,6 @@
+﻿country_requested,dataset_country,present_in_143,local_rank,local_pwrindx,official_detail_rank,official_listing_rank_current,official_pwrindx,finding
+Lithuania,,False,,,88,88,1.8949,Absent because no source PDF entered acquisition; adding requires acquisition/extraction and full downstream rerun.
+North Macedonia,,False,,,114,114,2.4956,Absent because no source PDF entered acquisition; adding requires acquisition/extraction and full downstream rerun.
+Benin,Benin,True,137.0,3.8963,137,138,3.8963,"PwrIndx matches. Local PDF/detail rank matches 137; current official aggregate listing shows 138, an official-source inconsistency rather than OCR corruption."
+Kosovo,Kosovo,True,138.0,3.8041,138,139,3.8041,"PwrIndx matches. Local PDF/detail rank matches 138; current official aggregate listing shows 139, an official-source inconsistency rather than OCR corruption."
+Belize,Beliz,True,144.0,4.3602,144,144,4.3602,"No discrepancy. GFP source and dataset both use the spelling 'Beliz', not 'Belize'."

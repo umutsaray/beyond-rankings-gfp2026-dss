@@ -44,6 +44,23 @@ REQUIRED = [
     "reviewer_r26_s8_corrected_topn_sensitivity.csv",
     "reviewer_r26_baseline_overlap_and_egypt.json",
     "reviewer_tests_r24_r25_r26_summary.json",
+    "reviewer_r22_naval_presence_spotcheck.csv",
+    "reviewer_r22_coastline_naval_presence_disagreements.csv",
+    "reviewer_r26_taiwan_alternative_recurrence.csv",
+    "reviewer_r26_s8_domain_euclidean_distances.csv",
+    "reviewer_r26_egypt_recurrence_check.json",
+    "reviewer_r27_null_overlap_and_pc1_rank.csv",
+    "reviewer_r27_k3_cluster_rank_distribution.csv",
+    "reviewer_r28_spearman_threshold_070_095.csv",
+    "reviewer_r211_extreme_leaveout_sensitivity.csv",
+    "reviewer_r211_mahalanobis_domain_vs_pca.csv",
+    "reviewer_r211_s5_winsorized_peer_overlap.json",
+    "reviewer_r212_mean_imputation_sensitivity.json",
+    "task_cluster_membership_k3.csv",
+    "reviewer_r216_turkiye_k2_k6_stability.csv",
+    "reviewer_r217_data_source_audit.csv",
+    "reviewer_r217_figure7_peer_list_audit.csv",
+    "reviewer_remaining_r2_summary.json",
 ]
 
 
@@ -69,6 +86,11 @@ def main() -> None:
     assert reviewer["r24"]["gap_1se_k"] == 3
     assert reviewer["r25"]["iterations_below_0_6"] == 97
     assert reviewer["r26"]["baseline"]["overlap_count"] == 7
+    remaining = json.loads((ROOT / "reviewer_remaining_r2_summary.json").read_text(encoding="utf-8"))
+    assert len(pd.read_csv(ROOT / "task_cluster_membership_k3.csv")) == 143
+    assert remaining["r27"]["statistics"][1]["value"] == 6
+    assert remaining["r212"]["changed_assignment_count"] == 0
+    assert len(remaining["r217"]["moderate_plus"]) == 13
     rows = []
     for path in sorted(ROOT.iterdir()):
         if path.is_file() and path.name != "manifest.csv":
